@@ -1,0 +1,6 @@
+carrier_id,carrier_name,service_region,sla_days
+1,SwiftAuto Logistics,National,4
+2,Apex Freight Systems,Regional,3
+3,TransNational Express,National,5
+4,Velocity Transporters,Regional,3
+5,PrimeRoute Haulers,National,6

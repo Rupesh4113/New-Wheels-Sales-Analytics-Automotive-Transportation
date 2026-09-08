@@ -1,0 +1,21 @@
+vehicle_id,vehicle_model,vehicle_class,vehicle_style,brand,model_year,list_price,cost_price
+1,Apex Horizon,Sedan,Mid-Size,AeroMotors,2024,28500.0,22800.0
+2,Apex EV-Pulse,Electric,Compact,AeroMotors,2024,37500.0,29250.0
+3,Aero Vista Crossover,SUV,Crossover,AeroMotors,2024,34000.0,26860.0
+4,Terra Titan 1500,Truck,Full-Size,TerraDynamics,2024,46500.0,36270.0
+5,Terra Pathfinder,SUV,Full-Size,TerraDynamics,2024,42000.0,33180.0
+6,Terra Trekker Eco,SUV,Compact,TerraDynamics,2024,31000.0,24800.0
+7,Lumina Grand Touring,Sedan,Full-Size,Lumina,2024,36500.0,28835.0
+8,Lumina Spark City,Economy,Compact,Lumina,2023,21500.0,17415.0
+9,Lumina Volt Premier,Electric,Mid-Size,Lumina,2024,44000.0,34320.0
+10,Zenith Sovereignty,Luxury,Full-Size,Zenith,2024,78500.0,58875.0
+11,Zenith Elegance Coupe,Luxury,Coupe,Zenith,2024,69000.0,52440.0
+12,Zenith E-Crown,Electric,Full-Size,Zenith,2024,84500.0,63375.0
+13,Vortech Outlaw GT,Sports,Coupe,Vortech,2024,56000.0,43680.0
+14,Vortech Cyclone R,Sports,Compact,Vortech,2024,48500.0,38315.0
+15,Terra Hauler HD,Truck,Full-Size,TerraDynamics,2024,54500.0,42510.0
+16,Aero Metro Commuter,Economy,Compact,AeroMotors,2023,23000.0,18630.0
+17,Lumina CrossCountry,SUV,Crossover,Lumina,2024,38500.0,30415.0
+18,Zenith Ascent Luxury SUV,Luxury,Full-Size,Zenith,2024,82000.0,61500.0
+19,Apex Storm EV,Electric,Crossover,AeroMotors,2024,49500.0,38610.0
+20,Vortech Velocity Sport,Sports,Coupe,Vortech,2024,62000.0,48360.0

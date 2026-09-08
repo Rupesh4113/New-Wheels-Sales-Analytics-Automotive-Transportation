@@ -1,0 +1,9 @@
+dispatch_center_id,center_name,region,city,state,capacity,established_date
+1,Northeast Distribution Hub,Northeast,Newark,NJ,1200,2020-03-15
+2,Southeast Logistics Center,Southeast,Atlanta,GA,1400,2019-06-01
+3,Midwest Central Terminal,Midwest,Chicago,IL,1600,2018-11-10
+4,Southwest Freight Depot,Southwest,Dallas,TX,1300,2021-01-20
+5,Pacific Gateway Facility,West,Los Angeles,CA,1800,2018-04-12
+6,Gulf Coast Fulfillment Center,Southeast,Houston,TX,1100,2021-08-05
+7,Great Lakes Transit Hub,Midwest,Detroit,MI,1250,2020-09-18
+8,Northwest Regional Center,West,Seattle,WA,950,2022-02-28

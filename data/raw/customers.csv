@@ -1,0 +1,1601 @@
+customer_id,customer_name,gender,age,city,state,region,customer_segment,registration_date
+1,Linda Johnson,Non-Binary,39,Miami,FL,Southeast,Individual,2023-04-15
+2,Paul Garcia,Non-Binary,49,New York,NY,Northeast,Individual,2023-08-27
+3,Steven Hill,Male,57,Orlando,FL,Southeast,Individual,2024-04-04
+4,Donna Moore,Male,70,Nashville,TN,Southeast,Individual,2023-06-09
+5,Susan Perez,Male,27,Dallas,TX,Southwest,Individual,2023-12-19
+6,Joshua Taylor,Male,68,San Antonio,TX,Southwest,Individual,2024-01-23
+7,Jennifer Scott,Female,62,Seattle,WA,West,Individual,2023-03-13
+8,John Anderson,Female,27,Atlanta,GA,Southeast,Individual,2024-04-09
+9,Lisa Hernandez,Female,44,Charlotte,NC,Southeast,Individual,2024-10-25
+10,Robert Hill,Non-Binary,32,San Francisco,CA,West,Individual,2024-01-24
+11,Sarah Scott,Male,65,Chicago,IL,Midwest,Individual,2023-02-02
+12,Christopher Sanchez,Female,26,Orlando,FL,Southeast,Small Business,2023-11-19
+13,Susan Young,Female,63,Houston,TX,Southwest,Individual,2023-09-10
+14,Emily Wright,Female,69,Denver,CO,West,Small Business,2024-02-13
+15,Lisa Anderson,Male,54,Dallas,TX,Southwest,Individual,2023-04-23
+16,Elizabeth Hernandez,Non-Binary,49,Los Angeles,CA,West,Individual,2024-09-02
+17,Sandra King,Female,57,New York,NY,Northeast,Individual,2024-07-03
+18,Sarah Perez,Male,40,Houston,TX,Southwest,Individual,2023-09-27
+19,Steven Lopez,Non-Binary,28,Milwaukee,WI,Midwest,Individual,2023-06-06
+20,Lisa Hernandez,Non-Binary,71,Los Angeles,CA,West,Individual,2024-05-15
+21,Mary Davis,Female,73,Detroit,MI,Midwest,Individual,2024-08-03
+22,Jennifer Garcia,Non-Binary,53,Hartford,CT,Northeast,Individual,2023-05-12
+23,Donald Scott,Male,38,Portland,OR,West,Individual,2023-08-05
+24,Paul Gonzalez,Non-Binary,41,Phoenix,AZ,Southwest,Individual,2024-06-13
+25,Mark Davis,Male,36,Philadelphia,PA,Northeast,Individual,2024-07-21
+26,Joseph Nguyen,Male,22,New York,NY,Northeast,Individual,2023-02-02
+27,Nancy Jones,Non-Binary,37,Columbus,OH,Midwest,Individual,2023-05-16
+28,Andrew Torres,Female,37,Austin,TX,Southwest,Individual,2023-04-10
+29,Margaret Thompson,Female,48,Dallas,TX,Southwest,Individual,2024-10-23
+30,Michael Brown,Female,68,Chicago,IL,Midwest,Individual,2023-07-14
+31,Paul Lewis,Male,49,Charlotte,NC,Southeast,Individual,2023-03-19
+32,Mark Scott,Male,25,Los Angeles,CA,West,Corporate Fleet,2023-08-31
+33,David Clark,Female,52,Nashville,TN,Southeast,Small Business,2023-06-18
+34,Matthew Smith,Female,38,Phoenix,AZ,Southwest,Individual,2024-07-23
+35,Ashley Martinez,Male,40,Atlanta,GA,Southeast,Individual,2024-07-09
+36,Patricia Lee,Male,25,Denver,CO,West,Individual,2024-06-27
+37,David Brown,Non-Binary,27,Atlanta,GA,Southeast,Individual,2023-08-29
+38,Betty Davis,Non-Binary,37,Portland,OR,West,Individual,2023-03-25
+39,Anthony Nguyen,Non-Binary,55,Indianapolis,IN,Midwest,Individual,2023-11-18
+40,Jessica Taylor,Female,30,Columbus,OH,Midwest,Individual,2023-03-16
+41,James Robinson,Non-Binary,58,New York,NY,Northeast,Individual,2024-06-02
+42,Thomas Rodriguez,Female,26,Charlotte,NC,Southeast,Individual,2024-03-24
+43,Paul Martin,Non-Binary,73,Los Angeles,CA,West,Individual,2024-07-21
+44,Karen Miller,Male,38,New York,NY,Northeast,Individual,2023-06-09
+45,Sarah Jackson,Non-Binary,35,Detroit,MI,Midwest,Individual,2023-09-28
+46,Steven Young,Female,25,Newark,NJ,Northeast,Small Business,2023-02-15
+47,James Perez,Male,62,Detroit,MI,Midwest,Individual,2024-07-18
+48,Margaret Scott,Male,29,Boston,MA,Northeast,Individual,2024-01-14
+49,Donna Scott,Male,49,Atlanta,GA,Southeast,Individual,2023-02-10
+50,Daniel Wilson,Non-Binary,37,Philadelphia,PA,Northeast,Individual,2024-02-21
+51,Michelle Martinez,Male,32,Nashville,TN,Southeast,Individual,2023-12-07
+52,Anthony Thomas,Female,32,Newark,NJ,Northeast,Small Business,2024-04-26
+53,Joseph Gonzalez,Female,44,Detroit,MI,Midwest,Individual,2024-11-06
+54,Richard Sanchez,Female,39,Philadelphia,PA,Northeast,Individual,2024-06-05
+55,Betty Wright,Female,23,Philadelphia,PA,Northeast,Individual,2023-09-29
+56,John Miller,Non-Binary,49,Indianapolis,IN,Midwest,Individual,2024-06-07
+57,Linda Harris,Non-Binary,34,Chicago,IL,Midwest,Individual,2023-01-02
+58,Kimberly Wright,Non-Binary,68,Charlotte,NC,Southeast,Individual,2024-11-11
+59,Nancy Flores,Female,64,Philadelphia,PA,Northeast,Individual,2024-02-23
+60,Christopher Sanchez,Non-Binary,40,San Francisco,CA,West,Individual,2024-11-11
+61,Matthew Lopez,Non-Binary,58,Columbus,OH,Midwest,Individual,2023-01-01
+62,Karen Jackson,Male,49,Portland,OR,West,Individual,2024-04-21
+63,Mark Lewis,Non-Binary,35,Denver,CO,West,Individual,2023-06-23
+64,Jennifer Jackson,Non-Binary,64,Seattle,WA,West,Individual,2023-08-29
+65,Karen Anderson,Male,31,New York,NY,Northeast,Individual,2024-05-01
+66,Michelle Jones,Female,48,San Francisco,CA,West,Individual,2024-01-29
+67,Ashley Sanchez,Male,31,New York,NY,Northeast,Individual,2023-08-13
+68,Barbara King,Female,25,San Francisco,CA,West,Small Business,2023-05-05
+69,Sandra Rodriguez,Female,64,Portland,OR,West,Individual,2024-03-29
+70,Michelle Allen,Female,57,Houston,TX,Southwest,Individual,2024-05-01
+71,Mark Taylor,Male,62,Milwaukee,WI,Midwest,Individual,2023-09-02
+72,Sarah Lewis,Male,67,Detroit,MI,Midwest,Individual,2023-11-24
+73,Paul Garcia,Male,31,Nashville,TN,Southeast,Individual,2023-08-08
+74,Robert Clark,Female,43,Denver,CO,West,Individual,2023-07-31
+75,Anthony Harris,Non-Binary,66,Hartford,CT,Northeast,Individual,2023-01-07
+76,Daniel Martin,Female,48,Portland,OR,West,Individual,2023-08-14
+77,Ashley Anderson,Female,49,Dallas,TX,Southwest,Individual,2024-02-19
+78,David Robinson,Male,61,Los Angeles,CA,West,Small Business,2024-08-29
+79,Andrew Johnson,Male,63,Houston,TX,Southwest,Small Business,2023-07-06
+80,Patricia Taylor,Female,42,Nashville,TN,Southeast,Individual,2024-01-24
+81,Sarah Clark,Female,27,Dallas,TX,Southwest,Individual,2023-02-23
+82,Daniel Anderson,Non-Binary,26,New York,NY,Northeast,Small Business,2023-07-24
+83,Mary Flores,Male,37,Nashville,TN,Southeast,Individual,2024-07-31
+84,Susan Robinson,Non-Binary,38,Detroit,MI,Midwest,Individual,2023-04-28
+85,David Martin,Male,59,Philadelphia,PA,Northeast,Individual,2024-01-20
+86,Betty Gonzalez,Male,59,Atlanta,GA,Southeast,Individual,2023-11-05
+87,Joshua Davis,Non-Binary,72,Philadelphia,PA,Northeast,Individual,2024-11-08
+88,Lisa Jones,Non-Binary,63,Chicago,IL,Midwest,Small Business,2024-05-16
+89,Michael Ramirez,Female,62,Houston,TX,Southwest,Individual,2024-06-18
+90,Sarah Flores,Non-Binary,71,Austin,TX,Southwest,Individual,2024-08-29
+91,Sarah Lee,Male,27,Columbus,OH,Midwest,Individual,2024-04-20
+92,Andrew Flores,Non-Binary,46,Chicago,IL,Midwest,Individual,2023-11-29
+93,Barbara Young,Male,44,Indianapolis,IN,Midwest,Individual,2024-09-02
+94,Sarah Scott,Male,55,Atlanta,GA,Southeast,Individual,2024-02-21
+95,Ashley Scott,Male,66,Austin,TX,Southwest,Individual,2023-01-18
+96,Jennifer Jackson,Male,47,Charlotte,NC,Southeast,Individual,2024-01-13
+97,Donald Scott,Non-Binary,44,San Antonio,TX,Southwest,Individual,2024-04-09
+98,Sarah Martin,Female,36,Boston,MA,Northeast,Individual,2024-07-02
+99,Barbara Gonzalez,Male,69,Phoenix,AZ,Southwest,Individual,2024-06-21
+100,Joshua Jackson,Male,34,Detroit,MI,Midwest,Individual,2023-11-06
+101,James Wright,Male,39,New York,NY,Northeast,Individual,2023-05-10
+102,Ashley Miller,Male,58,Columbus,OH,Midwest,Individual,2023-12-15
+103,Barbara Brown,Female,52,New York,NY,Northeast,Individual,2023-03-17
+104,Andrew Brown,Male,31,Seattle,WA,West,Individual,2023-09-12
+105,Linda Scott,Female,60,Portland,OR,West,Individual,2024-06-19
+106,Matthew Lewis,Female,41,Denver,CO,West,Individual,2024-09-27
+107,Patricia Flores,Non-Binary,28,Miami,FL,Southeast,Individual,2023-03-25
+108,David Thomas,Male,57,Boston,MA,Northeast,Individual,2024-04-06
+109,Joshua Walker,Female,24,Charlotte,NC,Southeast,Individual,2024-04-09
+110,Robert Anderson,Female,72,San Francisco,CA,West,Individual,2024-07-11
+111,Joseph Martinez,Female,31,New York,NY,Northeast,Individual,2023-11-11
+112,Joshua Torres,Female,50,Newark,NJ,Northeast,Individual,2024-02-17
+113,Sarah Allen,Non-Binary,53,Dallas,TX,Southwest,Individual,2024-03-18
+114,Christopher Hill,Female,23,Boston,MA,Northeast,Corporate Fleet,2024-08-12
+115,Donna Johnson,Non-Binary,39,Los Angeles,CA,West,Individual,2023-06-29
+116,Donald King,Non-Binary,50,Detroit,MI,Midwest,Corporate Fleet,2024-03-22
+117,Ashley Garcia,Female,44,Phoenix,AZ,Southwest,Individual,2023-04-18
+118,David Perez,Female,66,Phoenix,AZ,Southwest,Individual,2024-02-15
+119,Emily Williams,Female,27,Indianapolis,IN,Midwest,Individual,2024-02-18
+120,Steven Smith,Non-Binary,56,Austin,TX,Southwest,Individual,2024-06-14
+121,Lisa Flores,Female,62,Dallas,TX,Southwest,Individual,2024-07-16
+122,William Jackson,Female,66,Dallas,TX,Southwest,Individual,2024-10-07
+123,Joshua Thomas,Non-Binary,32,Milwaukee,WI,Midwest,Individual,2024-02-22
+124,Jennifer Anderson,Male,51,Boston,MA,Northeast,Individual,2023-10-26
+125,Steven Moore,Female,52,Houston,TX,Southwest,Individual,2023-05-29
+126,Matthew Gonzalez,Non-Binary,54,Atlanta,GA,Southeast,Individual,2024-02-29
+127,Nancy Allen,Female,22,Indianapolis,IN,Midwest,Small Business,2024-08-16
+128,Ashley Martinez,Female,56,Phoenix,AZ,Southwest,Individual,2024-07-10
+129,Matthew Robinson,Female,34,Orlando,FL,Southeast,Individual,2024-02-25
+130,John Lee,Non-Binary,52,Austin,TX,Southwest,Corporate Fleet,2024-10-29
+131,Elizabeth Young,Male,30,Portland,OR,West,Individual,2023-04-13
+132,Mark Miller,Non-Binary,51,Boston,MA,Northeast,Individual,2024-11-01
+133,Elizabeth Jones,Female,72,Indianapolis,IN,Midwest,Individual,2024-02-12
+134,Jennifer Perez,Non-Binary,56,Phoenix,AZ,Southwest,Individual,2024-05-14
+135,Paul Williams,Non-Binary,26,Charlotte,NC,Southeast,Corporate Fleet,2023-04-03
+136,Margaret Miller,Non-Binary,67,Newark,NJ,Northeast,Individual,2023-11-03
+137,Mary Williams,Female,72,Philadelphia,PA,Northeast,Individual,2024-03-17
+138,Elizabeth Thomas,Non-Binary,48,San Francisco,CA,West,Individual,2023-03-22
+139,Michelle Harris,Non-Binary,65,Nashville,TN,Southeast,Small Business,2023-05-27
+140,Joseph Robinson,Non-Binary,38,Phoenix,AZ,Southwest,Individual,2024-04-21
+141,Charles Wright,Male,26,Phoenix,AZ,Southwest,Corporate Fleet,2023-11-03
+142,Margaret Taylor,Female,41,Nashville,TN,Southeast,Small Business,2023-04-20
+143,Jessica Harris,Non-Binary,44,Seattle,WA,West,Corporate Fleet,2023-10-30
+144,Mary Sanchez,Female,22,Los Angeles,CA,West,Small Business,2024-05-23
+145,Charles Anderson,Non-Binary,73,Detroit,MI,Midwest,Individual,2024-09-27
+146,Thomas Rodriguez,Non-Binary,28,Philadelphia,PA,Northeast,Individual,2023-02-04
+147,Donna White,Non-Binary,30,Philadelphia,PA,Northeast,Individual,2024-03-01
+148,Barbara Gonzalez,Male,72,Seattle,WA,West,Individual,2023-10-07
+149,David Taylor,Female,73,Indianapolis,IN,Midwest,Individual,2024-04-24
+150,Robert Martinez,Male,65,San Antonio,TX,Southwest,Individual,2024-02-09
+151,James Taylor,Non-Binary,29,Phoenix,AZ,Southwest,Individual,2023-09-26
+152,Donna Harris,Non-Binary,45,Boston,MA,Northeast,Individual,2024-09-26
+153,Emily Lee,Non-Binary,36,Newark,NJ,Northeast,Small Business,2023-11-06
+154,Anthony Davis,Male,24,Philadelphia,PA,Northeast,Corporate Fleet,2023-04-29
+155,Michael Thomas,Non-Binary,30,Austin,TX,Southwest,Individual,2024-07-07
+156,Anthony Nguyen,Non-Binary,68,Nashville,TN,Southeast,Individual,2024-05-16
+157,Michelle Clark,Female,24,Detroit,MI,Midwest,Individual,2023-08-30
+158,Lisa Miller,Non-Binary,45,Seattle,WA,West,Individual,2023-10-10
+159,Richard Davis,Female,27,Orlando,FL,Southeast,Corporate Fleet,2023-02-21
+160,Nancy Thomas,Male,72,San Francisco,CA,West,Individual,2024-07-21
+161,Susan Nguyen,Male,36,Detroit,MI,Midwest,Individual,2024-09-02
+162,James Moore,Male,30,Seattle,WA,West,Individual,2023-04-23
+163,Mary Rodriguez,Male,44,Orlando,FL,Southeast,Individual,2023-06-28
+164,Thomas Brown,Male,69,San Antonio,TX,Southwest,Individual,2023-03-07
+165,Donald Lewis,Female,54,Los Angeles,CA,West,Individual,2023-08-15
+166,Michelle Williams,Non-Binary,72,Seattle,WA,West,Individual,2023-02-01
+167,Patricia Walker,Female,49,Newark,NJ,Northeast,Individual,2024-03-30
+168,Robert Garcia,Female,60,Atlanta,GA,Southeast,Individual,2024-10-01
+169,Donna Scott,Non-Binary,42,San Antonio,TX,Southwest,Individual,2024-04-09
+170,Steven Hill,Female,28,Hartford,CT,Northeast,Individual,2023-08-09
+171,Margaret Lewis,Male,48,Columbus,OH,Midwest,Individual,2023-04-08
+172,Christopher Ramirez,Female,64,Indianapolis,IN,Midwest,Corporate Fleet,2024-04-30
+173,Robert Garcia,Male,27,Dallas,TX,Southwest,Individual,2024-01-17
+174,William Scott,Male,59,Portland,OR,West,Individual,2023-05-06
+175,Anthony Thompson,Non-Binary,70,Dallas,TX,Southwest,Corporate Fleet,2024-09-06
+176,Karen Thompson,Male,58,San Francisco,CA,West,Individual,2024-05-08
+177,Joseph Miller,Female,57,Chicago,IL,Midwest,Individual,2024-08-10
+178,Joseph Ramirez,Non-Binary,71,Portland,OR,West,Individual,2024-07-24
+179,Mary Hill,Non-Binary,66,Chicago,IL,Midwest,Individual,2023-11-13
+180,Nancy Thompson,Male,33,Orlando,FL,Southeast,Individual,2023-03-13
+181,Elizabeth Johnson,Male,69,San Francisco,CA,West,Individual,2024-04-09
+182,Nancy Hernandez,Female,41,Milwaukee,WI,Midwest,Individual,2023-02-23
+183,Elizabeth Hernandez,Non-Binary,25,Philadelphia,PA,Northeast,Individual,2024-03-10
+184,Ashley Hill,Female,48,Detroit,MI,Midwest,Individual,2023-04-27
+185,Daniel Ramirez,Male,40,Denver,CO,West,Individual,2023-11-12
+186,John Anderson,Female,60,New York,NY,Northeast,Individual,2023-08-05
+187,William Taylor,Female,42,New York,NY,Northeast,Individual,2024-03-16
+188,Barbara Rodriguez,Female,56,Orlando,FL,Southeast,Individual,2023-12-29
+189,Robert Sanchez,Non-Binary,24,Dallas,TX,Southwest,Individual,2023-03-21
+190,Christopher Torres,Female,58,Austin,TX,Southwest,Individual,2024-02-19
+191,Mary Lee,Male,73,Denver,CO,West,Small Business,2024-01-06
+192,Jennifer Ramirez,Male,37,San Antonio,TX,Southwest,Individual,2023-03-22
+193,Betty Martin,Non-Binary,43,Charlotte,NC,Southeast,Individual,2023-03-20
+194,Steven Davis,Non-Binary,54,Charlotte,NC,Southeast,Individual,2024-10-22
+195,Elizabeth Thomas,Male,31,Detroit,MI,Midwest,Individual,2023-06-06
+196,Robert Lopez,Non-Binary,53,San Antonio,TX,Southwest,Individual,2024-04-04
+197,Andrew Flores,Female,62,Detroit,MI,Midwest,Individual,2024-04-25
+198,Mark Martin,Female,59,Philadelphia,PA,Northeast,Individual,2023-11-14
+199,Sandra Lewis,Male,25,Indianapolis,IN,Midwest,Individual,2023-04-03
+200,Michelle Hill,Non-Binary,46,San Antonio,TX,Southwest,Individual,2023-02-12
+201,Mark Torres,Non-Binary,34,Milwaukee,WI,Midwest,Individual,2023-06-04
+202,Patricia Lewis,Male,73,Chicago,IL,Midwest,Individual,2023-06-26
+203,John Thomas,Non-Binary,50,San Antonio,TX,Southwest,Individual,2023-06-12
+204,Lisa White,Female,46,Phoenix,AZ,Southwest,Individual,2023-02-23
+205,Nancy Jones,Female,28,Denver,CO,West,Individual,2024-11-03
+206,Joshua Martinez,Female,27,San Francisco,CA,West,Small Business,2023-11-14
+207,Betty Rodriguez,Non-Binary,67,Philadelphia,PA,Northeast,Individual,2024-10-20
+208,Nancy Rodriguez,Non-Binary,66,Los Angeles,CA,West,Individual,2024-03-09
+209,Steven White,Male,45,Detroit,MI,Midwest,Corporate Fleet,2023-12-16
+210,Ashley Gonzalez,Male,30,Atlanta,GA,Southeast,Individual,2023-04-14
+211,Steven Wright,Non-Binary,55,Philadelphia,PA,Northeast,Small Business,2024-09-24
+212,William Hill,Female,31,Miami,FL,Southeast,Small Business,2024-10-01
+213,David Lewis,Male,48,Detroit,MI,Midwest,Corporate Fleet,2024-09-17
+214,Charles Lewis,Male,56,Charlotte,NC,Southeast,Corporate Fleet,2024-04-25
+215,Richard White,Non-Binary,58,Austin,TX,Southwest,Individual,2024-01-27
+216,Steven King,Female,32,Orlando,FL,Southeast,Individual,2023-09-14
+217,Patricia Walker,Female,57,Hartford,CT,Northeast,Small Business,2023-10-19
+218,Jennifer Hernandez,Female,50,San Francisco,CA,West,Small Business,2023-04-04
+219,Joseph Lewis,Female,23,Dallas,TX,Southwest,Individual,2024-01-18
+220,Jessica Harris,Male,45,Atlanta,GA,Southeast,Individual,2023-04-12
+221,Nancy Martinez,Male,24,Columbus,OH,Midwest,Individual,2023-05-23
+222,Donald Lewis,Non-Binary,22,New York,NY,Northeast,Individual,2023-06-03
+223,Emily Hill,Non-Binary,49,Philadelphia,PA,Northeast,Individual,2023-05-05
+224,Patricia Thomas,Female,62,Denver,CO,West,Individual,2024-05-26
+225,Joshua Wright,Male,62,Portland,OR,West,Individual,2023-05-28
+226,Charles Ramirez,Male,61,Detroit,MI,Midwest,Individual,2023-07-11
+227,Jennifer King,Female,26,Portland,OR,West,Individual,2024-06-03
+228,Emily Johnson,Female,52,Newark,NJ,Northeast,Corporate Fleet,2023-09-17
+229,Mary Thompson,Male,44,Atlanta,GA,Southeast,Individual,2023-12-07
+230,William Williams,Female,56,Detroit,MI,Midwest,Small Business,2024-04-20
+231,Donald Lopez,Male,26,Dallas,TX,Southwest,Individual,2023-02-14
+232,Richard Williams,Female,41,Denver,CO,West,Corporate Fleet,2024-07-10
+233,Donald Taylor,Male,70,Charlotte,NC,Southeast,Individual,2023-02-18
+234,Nancy Moore,Male,73,Columbus,OH,Midwest,Small Business,2024-03-26
+235,Matthew Perez,Male,53,Phoenix,AZ,Southwest,Small Business,2024-06-15
+236,Sarah Garcia,Non-Binary,49,Newark,NJ,Northeast,Individual,2023-07-04
+237,Paul Jackson,Female,28,Philadelphia,PA,Northeast,Individual,2023-11-10
+238,Mark Hill,Non-Binary,49,Nashville,TN,Southeast,Individual,2023-02-13
+239,Daniel Flores,Female,39,New York,NY,Northeast,Individual,2024-02-20
+240,Lisa Allen,Non-Binary,65,Atlanta,GA,Southeast,Individual,2024-09-14
+241,Mark Williams,Male,26,Charlotte,NC,Southeast,Individual,2024-08-03
+242,John Hill,Male,65,Phoenix,AZ,Southwest,Individual,2023-03-20
+243,Andrew Rodriguez,Non-Binary,45,Phoenix,AZ,Southwest,Individual,2023-09-13
+244,Linda Johnson,Non-Binary,33,San Antonio,TX,Southwest,Individual,2024-07-29
+245,Linda Taylor,Female,67,Houston,TX,Southwest,Corporate Fleet,2023-10-20
+246,Ashley Gonzalez,Male,30,Newark,NJ,Northeast,Individual,2024-03-31
+247,Jennifer Lee,Non-Binary,44,Hartford,CT,Northeast,Individual,2023-11-04
+248,David Lopez,Female,54,Atlanta,GA,Southeast,Corporate Fleet,2023-05-23
+249,Jessica Young,Male,45,Portland,OR,West,Individual,2024-07-18
+250,William Flores,Male,26,Columbus,OH,Midwest,Corporate Fleet,2024-05-05
+251,Kimberly Clark,Female,58,Boston,MA,Northeast,Corporate Fleet,2024-10-19
+252,Robert Lewis,Female,65,Seattle,WA,West,Individual,2024-07-18
+253,Donna Lopez,Male,49,Los Angeles,CA,West,Small Business,2024-06-14
+254,Elizabeth Martin,Male,32,Detroit,MI,Midwest,Individual,2024-06-15
+255,Charles Garcia,Female,34,Seattle,WA,West,Individual,2023-11-07
+256,Michelle Wright,Male,54,Orlando,FL,Southeast,Small Business,2023-06-07
+257,David Flores,Non-Binary,60,Milwaukee,WI,Midwest,Individual,2023-01-30
+258,Jennifer Williams,Non-Binary,71,Seattle,WA,West,Individual,2024-08-08
+259,Anthony Flores,Non-Binary,23,San Antonio,TX,Southwest,Individual,2023-11-06
+260,Donald Thomas,Non-Binary,47,Columbus,OH,Midwest,Individual,2023-03-03
+261,David Lewis,Female,52,Houston,TX,Southwest,Individual,2023-05-28
+262,Christopher Lee,Non-Binary,44,Houston,TX,Southwest,Individual,2024-06-11
+263,Emily Miller,Female,37,Dallas,TX,Southwest,Individual,2023-09-11
+264,Elizabeth Miller,Male,40,San Antonio,TX,Southwest,Individual,2023-06-13
+265,Christopher Torres,Non-Binary,42,Miami,FL,Southeast,Individual,2024-06-11
+266,Sandra Young,Female,53,New York,NY,Northeast,Small Business,2024-06-01
+267,Sandra Thomas,Male,59,Chicago,IL,Midwest,Individual,2024-05-21
+268,Joshua Walker,Female,56,New York,NY,Northeast,Individual,2023-09-28
+269,Lisa Sanchez,Female,24,Dallas,TX,Southwest,Individual,2023-07-19
+270,Lisa Scott,Female,26,San Antonio,TX,Southwest,Individual,2024-07-17
+271,Sarah Flores,Non-Binary,61,Boston,MA,Northeast,Corporate Fleet,2024-02-08
+272,Lisa Perez,Non-Binary,45,Miami,FL,Southeast,Individual,2024-02-16
+273,Steven Williams,Male,24,Charlotte,NC,Southeast,Individual,2024-06-15
+274,Sandra Martinez,Non-Binary,54,Charlotte,NC,Southeast,Small Business,2023-11-23
+275,David Sanchez,Non-Binary,69,Milwaukee,WI,Midwest,Individual,2024-06-05
+276,Paul Young,Non-Binary,58,Columbus,OH,Midwest,Individual,2024-01-13
+277,Nancy Davis,Female,59,Chicago,IL,Midwest,Individual,2023-09-29
+278,Donna Torres,Male,68,Hartford,CT,Northeast,Individual,2024-06-20
+279,Michelle Harris,Male,65,Atlanta,GA,Southeast,Individual,2023-04-23
+280,Richard Johnson,Female,42,Houston,TX,Southwest,Individual,2023-07-28
+281,Anthony Allen,Non-Binary,52,Boston,MA,Northeast,Individual,2024-07-28
+282,Christopher Walker,Non-Binary,46,Detroit,MI,Midwest,Individual,2024-06-29
+283,Nancy Wright,Female,65,Milwaukee,WI,Midwest,Individual,2023-09-10
+284,Sarah Scott,Female,36,Indianapolis,IN,Midwest,Individual,2024-05-15
+285,Christopher Walker,Female,57,Indianapolis,IN,Midwest,Individual,2024-07-10
+286,Matthew Sanchez,Female,71,Charlotte,NC,Southeast,Individual,2023-03-22
+287,Daniel Lewis,Non-Binary,38,Houston,TX,Southwest,Individual,2024-07-05
+288,Sarah Scott,Non-Binary,39,Atlanta,GA,Southeast,Individual,2024-08-23
+289,Jessica Thomas,Male,64,San Francisco,CA,West,Individual,2023-02-23
+290,Michael Clark,Female,67,Dallas,TX,Southwest,Individual,2023-05-21
+291,James Scott,Male,48,Austin,TX,Southwest,Individual,2023-10-22
+292,Christopher Jackson,Non-Binary,25,Hartford,CT,Northeast,Individual,2023-02-08
+293,Barbara Clark,Male,24,Austin,TX,Southwest,Individual,2023-10-24
+294,John Smith,Female,58,Los Angeles,CA,West,Small Business,2023-12-10
+295,Charles Robinson,Non-Binary,56,Denver,CO,West,Small Business,2023-05-18
+296,Steven Robinson,Female,34,Philadelphia,PA,Northeast,Individual,2024-04-14
+297,Thomas Lopez,Male,69,Indianapolis,IN,Midwest,Individual,2023-07-17
+298,Barbara Flores,Non-Binary,47,San Antonio,TX,Southwest,Individual,2024-02-15
+299,Michael Lopez,Male,52,Detroit,MI,Midwest,Individual,2024-01-28
+300,Jessica Lewis,Female,43,Milwaukee,WI,Midwest,Individual,2023-01-12
+301,Thomas White,Non-Binary,37,New York,NY,Northeast,Individual,2023-06-13
+302,Betty Allen,Non-Binary,71,Chicago,IL,Midwest,Individual,2023-10-30
+303,Lisa Flores,Male,36,Nashville,TN,Southeast,Individual,2024-09-12
+304,Lisa Clark,Non-Binary,57,San Antonio,TX,Southwest,Individual,2023-08-12
+305,Jessica Hill,Male,55,San Antonio,TX,Southwest,Individual,2023-03-21
+306,Andrew Davis,Male,57,San Francisco,CA,West,Individual,2023-06-03
+307,David Lee,Non-Binary,50,Boston,MA,Northeast,Individual,2024-05-15
+308,Jennifer Allen,Female,73,Newark,NJ,Northeast,Individual,2024-03-01
+309,Sandra Torres,Male,57,Phoenix,AZ,Southwest,Individual,2024-02-10
+310,Thomas Smith,Non-Binary,35,Los Angeles,CA,West,Individual,2023-12-19
+311,Robert Wright,Male,26,Dallas,TX,Southwest,Individual,2023-07-04
+312,William Clark,Female,46,Austin,TX,Southwest,Individual,2024-11-08
+313,Paul Rodriguez,Non-Binary,44,Boston,MA,Northeast,Corporate Fleet,2024-02-07
+314,Kimberly Rodriguez,Non-Binary,36,New York,NY,Northeast,Corporate Fleet,2024-04-19
+315,Paul Ramirez,Non-Binary,46,Miami,FL,Southeast,Individual,2023-06-08
+316,Sarah Gonzalez,Non-Binary,70,New York,NY,Northeast,Individual,2024-03-05
+317,Michelle Johnson,Male,35,New York,NY,Northeast,Individual,2024-04-02
+318,Joshua Brown,Male,69,Newark,NJ,Northeast,Individual,2024-07-06
+319,Susan Brown,Male,54,Detroit,MI,Midwest,Individual,2024-08-12
+320,Christopher Torres,Non-Binary,71,Detroit,MI,Midwest,Individual,2023-05-27
+321,Kimberly Anderson,Female,41,Chicago,IL,Midwest,Individual,2024-08-28
+322,Barbara Ramirez,Non-Binary,53,Philadelphia,PA,Northeast,Small Business,2024-01-26
+323,Kimberly Lee,Non-Binary,48,Houston,TX,Southwest,Individual,2023-07-08
+324,Paul Walker,Male,36,Detroit,MI,Midwest,Individual,2023-03-01
+325,Emily Clark,Female,57,San Francisco,CA,West,Individual,2023-09-19
+326,Susan Perez,Non-Binary,27,Phoenix,AZ,Southwest,Individual,2023-07-15
+327,Patricia Moore,Female,65,Portland,OR,West,Individual,2023-03-16
+328,Richard Nguyen,Non-Binary,64,San Francisco,CA,West,Individual,2023-12-07
+329,Karen Smith,Male,34,Newark,NJ,Northeast,Small Business,2024-09-10
+330,Susan Sanchez,Male,57,Indianapolis,IN,Midwest,Individual,2024-06-30
+331,Daniel Martin,Female,45,Denver,CO,West,Individual,2024-04-25
+332,Christopher Wilson,Female,42,Dallas,TX,Southwest,Individual,2023-08-15
+333,Elizabeth Johnson,Female,57,Portland,OR,West,Individual,2023-10-30
+334,Elizabeth Gonzalez,Female,36,San Antonio,TX,Southwest,Small Business,2024-05-26
+335,Emily Perez,Female,70,Austin,TX,Southwest,Individual,2023-12-27
+336,David Rodriguez,Non-Binary,56,Houston,TX,Southwest,Small Business,2024-07-09
+337,Patricia King,Male,26,New York,NY,Northeast,Individual,2024-10-07
+338,Joseph Jones,Non-Binary,31,Boston,MA,Northeast,Individual,2024-01-18
+339,Patricia Flores,Non-Binary,64,Denver,CO,West,Individual,2023-01-17
+340,James Wright,Non-Binary,48,New York,NY,Northeast,Individual,2023-10-09
+341,Paul Jackson,Male,54,Houston,TX,Southwest,Individual,2023-04-09
+342,Kimberly Martinez,Male,34,Portland,OR,West,Individual,2023-12-29
+343,Sarah Sanchez,Male,45,Austin,TX,Southwest,Individual,2023-08-20
+344,Karen Garcia,Non-Binary,63,New York,NY,Northeast,Individual,2024-01-22
+345,Emily Walker,Male,62,Boston,MA,Northeast,Individual,2024-03-20
+346,Nancy Torres,Male,55,Boston,MA,Northeast,Individual,2024-08-03
+347,Donald Moore,Male,26,Milwaukee,WI,Midwest,Individual,2023-02-03
+348,Barbara Lee,Male,35,San Francisco,CA,West,Individual,2024-02-12
+349,Robert Martin,Male,58,Orlando,FL,Southeast,Small Business,2024-02-03
+350,Paul Perez,Female,70,Atlanta,GA,Southeast,Individual,2023-12-21
+351,Patricia Miller,Female,36,Philadelphia,PA,Northeast,Individual,2024-09-20
+352,Joshua Sanchez,Female,23,Columbus,OH,Midwest,Individual,2023-12-31
+353,Emily Harris,Female,33,Denver,CO,West,Individual,2024-09-25
+354,Charles Thomas,Non-Binary,26,Philadelphia,PA,Northeast,Individual,2024-10-11
+355,Elizabeth Harris,Female,45,New York,NY,Northeast,Individual,2023-11-12
+356,Mark White,Female,28,Atlanta,GA,Southeast,Individual,2024-04-04
+357,Emily Scott,Non-Binary,48,New York,NY,Northeast,Individual,2024-07-21
+358,Jennifer Hill,Non-Binary,72,Columbus,OH,Midwest,Individual,2024-02-28
+359,Matthew Garcia,Non-Binary,57,Orlando,FL,Southeast,Individual,2024-01-25
+360,David Rodriguez,Female,41,Columbus,OH,Midwest,Individual,2023-06-21
+361,Margaret Moore,Female,41,Dallas,TX,Southwest,Individual,2023-09-10
+362,Ashley Hill,Non-Binary,34,Dallas,TX,Southwest,Individual,2023-01-07
+363,Betty Perez,Non-Binary,46,Columbus,OH,Midwest,Individual,2024-10-28
+364,Joshua Rodriguez,Female,42,San Francisco,CA,West,Individual,2023-07-01
+365,Betty Lee,Female,69,San Antonio,TX,Southwest,Individual,2023-11-30
+366,Matthew Moore,Female,45,Hartford,CT,Northeast,Individual,2024-07-12
+367,Barbara Scott,Male,68,Houston,TX,Southwest,Individual,2023-10-26
+368,Robert Clark,Non-Binary,53,Charlotte,NC,Southeast,Individual,2024-11-05
+369,Elizabeth Ramirez,Female,26,San Antonio,TX,Southwest,Individual,2024-02-15
+370,Paul Allen,Non-Binary,48,Los Angeles,CA,West,Individual,2024-01-04
+371,Paul Hill,Non-Binary,27,Boston,MA,Northeast,Individual,2023-12-30
+372,David Flores,Male,58,Phoenix,AZ,Southwest,Corporate Fleet,2024-03-16
+373,Michael Smith,Male,38,Orlando,FL,Southeast,Individual,2024-07-25
+374,Donna Torres,Male,50,Columbus,OH,Midwest,Individual,2024-08-25
+375,Steven Martinez,Female,23,Dallas,TX,Southwest,Individual,2023-03-29
+376,Linda Martinez,Female,41,Columbus,OH,Midwest,Individual,2024-06-17
+377,Donald Thompson,Female,28,Austin,TX,Southwest,Individual,2023-11-04
+378,John Davis,Male,43,Boston,MA,Northeast,Small Business,2023-09-07
+379,Kimberly Lopez,Non-Binary,32,Milwaukee,WI,Midwest,Individual,2024-04-18
+380,Joseph Sanchez,Non-Binary,33,Nashville,TN,Southeast,Individual,2024-09-20
+381,Richard Lewis,Non-Binary,49,Dallas,TX,Southwest,Individual,2023-07-30
+382,Sarah Jones,Non-Binary,28,San Francisco,CA,West,Individual,2023-07-21
+383,Sandra Davis,Female,64,San Antonio,TX,Southwest,Corporate Fleet,2023-11-17
+384,Joshua Harris,Non-Binary,47,Los Angeles,CA,West,Individual,2024-04-13
+385,Michelle Lopez,Non-Binary,67,Milwaukee,WI,Midwest,Individual,2023-05-18
+386,Christopher Davis,Male,41,Boston,MA,Northeast,Individual,2023-05-25
+387,Steven Harris,Female,60,Orlando,FL,Southeast,Individual,2023-07-10
+388,Ashley Wright,Non-Binary,63,Orlando,FL,Southeast,Individual,2023-10-23
+389,William Lopez,Female,50,Los Angeles,CA,West,Small Business,2023-01-10
+390,Ashley Rodriguez,Male,46,Portland,OR,West,Individual,2024-02-23
+391,Ashley Clark,Non-Binary,50,Houston,TX,Southwest,Individual,2023-02-01
+392,Joseph Jackson,Male,39,Orlando,FL,Southeast,Individual,2024-04-13
+393,Andrew Young,Non-Binary,54,Hartford,CT,Northeast,Individual,2024-07-10
+394,Lisa Wright,Male,70,San Antonio,TX,Southwest,Individual,2024-03-11
+395,Michael Thomas,Female,24,Phoenix,AZ,Southwest,Individual,2023-03-31
+396,Mark Davis,Male,35,Seattle,WA,West,Small Business,2024-09-16
+397,Margaret Hernandez,Non-Binary,30,Miami,FL,Southeast,Individual,2024-08-06
+398,Daniel Wright,Female,60,San Francisco,CA,West,Individual,2023-10-27
+399,Charles Torres,Female,54,Boston,MA,Northeast,Corporate Fleet,2024-02-26
+400,Patricia Moore,Non-Binary,30,Miami,FL,Southeast,Individual,2023-11-26
+401,Jessica Sanchez,Female,31,Seattle,WA,West,Individual,2024-01-20
+402,Mark Jones,Non-Binary,72,Newark,NJ,Northeast,Individual,2023-10-12
+403,Lisa Robinson,Female,42,Los Angeles,CA,West,Small Business,2023-04-06
+404,Sandra Thompson,Male,72,Denver,CO,West,Individual,2024-03-15
+405,Susan Young,Female,42,Indianapolis,IN,Midwest,Individual,2023-05-14
+406,Andrew Young,Female,65,New York,NY,Northeast,Individual,2024-04-15
+407,Mary Davis,Male,50,Dallas,TX,Southwest,Corporate Fleet,2024-03-14
+408,Richard Rodriguez,Non-Binary,41,Charlotte,NC,Southeast,Individual,2024-01-05
+409,Thomas Garcia,Female,64,Atlanta,GA,Southeast,Individual,2023-11-09
+410,Joseph Ramirez,Non-Binary,27,New York,NY,Northeast,Individual,2023-03-21
+411,William Nguyen,Male,55,Dallas,TX,Southwest,Individual,2023-12-18
+412,Linda Ramirez,Non-Binary,30,Dallas,TX,Southwest,Individual,2023-04-02
+413,Michael Miller,Female,45,Detroit,MI,Midwest,Individual,2023-05-17
+414,Elizabeth Jones,Non-Binary,58,Hartford,CT,Northeast,Individual,2024-03-26
+415,Daniel Wilson,Non-Binary,69,Nashville,TN,Southeast,Individual,2024-03-29
+416,Susan Garcia,Male,30,Hartford,CT,Northeast,Individual,2023-12-26
+417,Margaret Lee,Male,37,Chicago,IL,Midwest,Individual,2024-09-07
+418,Joshua Hill,Female,71,Philadelphia,PA,Northeast,Individual,2024-09-13
+419,Steven Gonzalez,Non-Binary,47,Chicago,IL,Midwest,Individual,2023-09-03
+420,Ashley Harris,Male,37,San Antonio,TX,Southwest,Individual,2023-01-13
+421,Lisa Lee,Male,46,Denver,CO,West,Individual,2023-06-26
+422,Donald Jones,Male,59,New York,NY,Northeast,Individual,2023-02-10
+423,Patricia Sanchez,Non-Binary,40,Denver,CO,West,Individual,2024-02-16
+424,Jennifer Wright,Non-Binary,61,Charlotte,NC,Southeast,Individual,2023-03-22
+425,Steven Wilson,Male,56,Columbus,OH,Midwest,Individual,2024-10-27
+426,Robert Martin,Non-Binary,49,Atlanta,GA,Southeast,Individual,2024-03-20
+427,Linda Robinson,Non-Binary,60,Philadelphia,PA,Northeast,Individual,2024-11-04
+428,Barbara Davis,Male,67,Atlanta,GA,Southeast,Individual,2023-12-22
+429,Kimberly King,Non-Binary,38,Charlotte,NC,Southeast,Individual,2023-10-03
+430,Linda Johnson,Female,73,Phoenix,AZ,Southwest,Individual,2023-09-27
+431,Andrew Jones,Female,51,Seattle,WA,West,Individual,2024-08-03
+432,David White,Male,38,Hartford,CT,Northeast,Individual,2023-04-29
+433,Joseph Allen,Male,24,Boston,MA,Northeast,Individual,2024-01-08
+434,Matthew Martinez,Male,24,Denver,CO,West,Individual,2023-09-12
+435,Anthony Lee,Female,26,Seattle,WA,West,Individual,2023-02-23
+436,Barbara Anderson,Non-Binary,24,Dallas,TX,Southwest,Small Business,2023-10-17
+437,Karen Lee,Male,57,Dallas,TX,Southwest,Individual,2023-10-26
+438,Andrew Martin,Non-Binary,61,Nashville,TN,Southeast,Individual,2024-05-20
+439,Richard Wright,Male,31,Newark,NJ,Northeast,Individual,2024-07-08
+440,Daniel Smith,Female,22,Phoenix,AZ,Southwest,Individual,2024-06-26
+441,Jessica Clark,Female,25,Charlotte,NC,Southeast,Individual,2023-08-26
+442,Kimberly Clark,Non-Binary,45,Dallas,TX,Southwest,Individual,2024-06-01
+443,William Sanchez,Male,59,Los Angeles,CA,West,Individual,2023-05-14
+444,Jessica Jackson,Female,42,Phoenix,AZ,Southwest,Individual,2023-10-06
+445,Joseph Jones,Male,30,Los Angeles,CA,West,Individual,2023-06-18
+446,Mark Robinson,Female,48,Hartford,CT,Northeast,Individual,2023-08-01
+447,Mark Martin,Female,38,New York,NY,Northeast,Individual,2023-11-08
+448,Joshua Williams,Male,42,Atlanta,GA,Southeast,Individual,2023-12-31
+449,Betty Allen,Male,65,Indianapolis,IN,Midwest,Small Business,2023-06-28
+450,Mary Sanchez,Female,57,San Francisco,CA,West,Individual,2023-04-15
+451,William Davis,Male,25,Miami,FL,Southeast,Individual,2024-02-15
+452,Lisa Garcia,Non-Binary,59,Chicago,IL,Midwest,Individual,2023-03-08
+453,Richard Lewis,Male,27,Chicago,IL,Midwest,Individual,2024-04-17
+454,Patricia Hernandez,Non-Binary,49,Austin,TX,Southwest,Individual,2024-03-12
+455,Barbara Thompson,Male,33,Indianapolis,IN,Midwest,Individual,2023-06-02
+456,John Flores,Non-Binary,61,Charlotte,NC,Southeast,Individual,2024-07-17
+457,Donald Brown,Male,39,Houston,TX,Southwest,Individual,2024-10-20
+458,Kimberly Thomas,Non-Binary,73,Los Angeles,CA,West,Corporate Fleet,2024-01-03
+459,Donald Wright,Female,44,Portland,OR,West,Individual,2023-10-04
+460,Barbara Johnson,Female,60,Atlanta,GA,Southeast,Small Business,2023-10-15
+461,Patricia Walker,Non-Binary,44,San Francisco,CA,West,Corporate Fleet,2023-04-13
+462,Jessica Thomas,Female,56,Boston,MA,Northeast,Individual,2024-02-02
+463,Daniel Lopez,Male,37,Seattle,WA,West,Individual,2024-01-03
+464,Donna Johnson,Non-Binary,66,Milwaukee,WI,Midwest,Individual,2024-07-30
+465,Richard Young,Non-Binary,41,Nashville,TN,Southeast,Individual,2023-02-27
+466,Joseph Hill,Male,23,Denver,CO,West,Individual,2024-09-20
+467,Richard Rodriguez,Female,67,Charlotte,NC,Southeast,Individual,2023-06-01
+468,Donna Martinez,Male,55,Chicago,IL,Midwest,Individual,2024-11-09
+469,Betty Nguyen,Male,43,Indianapolis,IN,Midwest,Individual,2023-06-11
+470,Margaret Young,Non-Binary,42,Orlando,FL,Southeast,Individual,2024-09-20
+471,Daniel Anderson,Non-Binary,59,Nashville,TN,Southeast,Individual,2023-10-29
+472,William Lopez,Non-Binary,22,Denver,CO,West,Small Business,2024-08-04
+473,John Lopez,Non-Binary,42,San Francisco,CA,West,Individual,2023-04-17
+474,Ashley Martinez,Female,69,Boston,MA,Northeast,Individual,2023-11-24
+475,David Garcia,Non-Binary,64,Columbus,OH,Midwest,Individual,2023-08-03
+476,Jessica Jones,Female,38,New York,NY,Northeast,Individual,2024-03-24
+477,Anthony Hernandez,Female,53,Phoenix,AZ,Southwest,Individual,2023-04-14
+478,Donald Torres,Non-Binary,70,Miami,FL,Southeast,Individual,2023-02-04
+479,Charles Johnson,Female,38,New York,NY,Northeast,Individual,2024-01-20
+480,David Jones,Non-Binary,27,Milwaukee,WI,Midwest,Corporate Fleet,2024-05-09
+481,Mary Ramirez,Non-Binary,32,Denver,CO,West,Individual,2023-04-14
+482,Nancy Wilson,Male,48,Portland,OR,West,Individual,2023-10-16
+483,Karen Thomas,Male,25,San Antonio,TX,Southwest,Individual,2024-05-17
+484,Elizabeth Brown,Female,22,Dallas,TX,Southwest,Individual,2024-11-08
+485,Joshua Walker,Male,28,Boston,MA,Northeast,Individual,2023-10-26
+486,Jennifer Walker,Male,41,Austin,TX,Southwest,Individual,2024-11-07
+487,Thomas Garcia,Non-Binary,56,Houston,TX,Southwest,Individual,2024-01-26
+488,Lisa Lopez,Female,24,Columbus,OH,Midwest,Individual,2023-08-20
+489,Sarah Torres,Male,31,New York,NY,Northeast,Individual,2024-07-08
+490,Anthony Nguyen,Male,57,Newark,NJ,Northeast,Individual,2024-03-04
+491,Paul Walker,Non-Binary,37,Phoenix,AZ,Southwest,Individual,2023-02-05
+492,Steven Torres,Non-Binary,73,Portland,OR,West,Individual,2024-04-04
+493,Barbara Hernandez,Male,73,Miami,FL,Southeast,Individual,2023-03-22
+494,Margaret Gonzalez,Non-Binary,31,Seattle,WA,West,Individual,2023-03-10
+495,Jennifer Harris,Non-Binary,47,Seattle,WA,West,Small Business,2024-06-16
+496,Sandra Smith,Non-Binary,61,Portland,OR,West,Individual,2023-04-26
+497,Anthony Martinez,Male,58,Portland,OR,West,Individual,2023-04-13
+498,Michael Torres,Male,72,Milwaukee,WI,Midwest,Small Business,2024-02-25
+499,Thomas Harris,Non-Binary,53,Portland,OR,West,Individual,2023-06-26
+500,Sarah Sanchez,Male,61,Denver,CO,West,Individual,2023-12-06
+501,Jessica Brown,Non-Binary,52,Indianapolis,IN,Midwest,Individual,2023-11-07
+502,Karen Moore,Female,66,Boston,MA,Northeast,Individual,2024-03-29
+503,Christopher Moore,Non-Binary,48,Los Angeles,CA,West,Individual,2023-08-05
+504,Anthony Young,Non-Binary,45,Hartford,CT,Northeast,Individual,2023-03-09
+505,Karen Allen,Female,30,Portland,OR,West,Individual,2023-07-17
+506,Richard Brown,Male,24,Dallas,TX,Southwest,Small Business,2023-07-23
+507,Sarah White,Female,54,Dallas,TX,Southwest,Individual,2023-09-05
+508,Lisa Young,Non-Binary,50,Nashville,TN,Southeast,Individual,2023-12-25
+509,Daniel Hernandez,Female,69,Philadelphia,PA,Northeast,Individual,2023-02-20
+510,David Torres,Male,36,Miami,FL,Southeast,Individual,2024-02-24
+511,Steven Johnson,Non-Binary,22,Houston,TX,Southwest,Individual,2024-09-07
+512,James Anderson,Female,60,Indianapolis,IN,Midwest,Individual,2024-01-21
+513,Daniel Robinson,Female,35,Phoenix,AZ,Southwest,Individual,2024-09-30
+514,Betty Nguyen,Male,22,Seattle,WA,West,Individual,2024-08-31
+515,Joshua Jackson,Female,65,Newark,NJ,Northeast,Individual,2023-10-11
+516,Christopher Moore,Female,63,Detroit,MI,Midwest,Individual,2023-09-04
+517,Patricia Hill,Female,64,Detroit,MI,Midwest,Individual,2024-11-02
+518,Ashley Jackson,Female,48,Austin,TX,Southwest,Individual,2024-08-20
+519,Andrew Gonzalez,Female,68,Orlando,FL,Southeast,Individual,2024-05-02
+520,Daniel Allen,Female,32,San Francisco,CA,West,Individual,2024-04-27
+521,William Taylor,Non-Binary,73,San Francisco,CA,West,Small Business,2023-12-10
+522,Jennifer Anderson,Female,36,Columbus,OH,Midwest,Individual,2023-12-06
+523,Lisa Taylor,Non-Binary,40,Dallas,TX,Southwest,Individual,2024-10-11
+524,Donna Nguyen,Non-Binary,26,Houston,TX,Southwest,Individual,2024-01-26
+525,Kimberly Martin,Female,25,Miami,FL,Southeast,Corporate Fleet,2023-12-17
+526,Anthony Torres,Female,31,Detroit,MI,Midwest,Individual,2024-05-14
+527,Nancy Lopez,Female,62,New York,NY,Northeast,Individual,2023-08-03
+528,David Torres,Male,53,Boston,MA,Northeast,Individual,2024-10-10
+529,Margaret Sanchez,Female,52,Dallas,TX,Southwest,Individual,2023-07-24
+530,Lisa Smith,Female,70,San Francisco,CA,West,Individual,2023-01-05
+531,Jessica Anderson,Non-Binary,44,Detroit,MI,Midwest,Individual,2024-05-30
+532,Donna Martin,Male,26,Philadelphia,PA,Northeast,Small Business,2024-04-11
+533,Kimberly Hill,Non-Binary,43,Houston,TX,Southwest,Individual,2024-05-16
+534,Daniel Gonzalez,Male,73,Dallas,TX,Southwest,Individual,2023-05-15
+535,Susan Johnson,Non-Binary,54,Atlanta,GA,Southeast,Individual,2024-10-28
+536,John Harris,Non-Binary,38,Portland,OR,West,Individual,2023-02-19
+537,Michael Johnson,Male,66,Newark,NJ,Northeast,Individual,2023-05-07
+538,Emily Taylor,Female,66,Miami,FL,Southeast,Individual,2024-10-07
+539,James Martin,Female,64,Hartford,CT,Northeast,Individual,2024-09-12
+540,William Clark,Male,54,Los Angeles,CA,West,Individual,2023-04-19
+541,Ashley Gonzalez,Non-Binary,34,Milwaukee,WI,Midwest,Corporate Fleet,2024-01-02
+542,Anthony Jackson,Male,24,Denver,CO,West,Small Business,2024-05-07
+543,Nancy Thomas,Male,22,New York,NY,Northeast,Small Business,2024-05-20
+544,Elizabeth Garcia,Non-Binary,26,Philadelphia,PA,Northeast,Individual,2024-04-12
+545,Charles Taylor,Female,25,Boston,MA,Northeast,Small Business,2023-10-25
+546,Lisa Lee,Female,69,New York,NY,Northeast,Small Business,2023-02-16
+547,James Rodriguez,Non-Binary,63,Charlotte,NC,Southeast,Individual,2024-03-24
+548,Michelle Moore,Non-Binary,27,Indianapolis,IN,Midwest,Individual,2024-02-15
+549,Betty Robinson,Female,46,Austin,TX,Southwest,Individual,2023-06-20
+550,Linda Rodriguez,Non-Binary,68,Boston,MA,Northeast,Individual,2024-08-27
+551,Donald Torres,Non-Binary,50,Orlando,FL,Southeast,Individual,2024-01-03
+552,Michelle Johnson,Non-Binary,68,Nashville,TN,Southeast,Small Business,2023-04-26
+553,Anthony Lewis,Male,26,Indianapolis,IN,Midwest,Individual,2024-06-21
+554,Andrew Torres,Male,64,Milwaukee,WI,Midwest,Individual,2024-09-25
+555,Michael Ramirez,Non-Binary,68,Nashville,TN,Southeast,Individual,2024-10-18
+556,Matthew Martinez,Non-Binary,61,New York,NY,Northeast,Individual,2023-06-10
+557,Steven Walker,Female,32,Newark,NJ,Northeast,Individual,2023-12-05
+558,Sarah Brown,Non-Binary,36,Denver,CO,West,Individual,2023-08-29
+559,Jennifer Robinson,Female,73,Denver,CO,West,Individual,2024-05-25
+560,Mark Lee,Male,53,New York,NY,Northeast,Individual,2023-02-06
+561,Emily Scott,Male,27,Portland,OR,West,Individual,2024-06-04
+562,Emily Wilson,Non-Binary,64,Phoenix,AZ,Southwest,Individual,2023-02-25
+563,Joseph Robinson,Female,57,Portland,OR,West,Individual,2024-11-03
+564,Lisa Lewis,Male,28,Atlanta,GA,Southeast,Individual,2024-10-10
+565,Charles Scott,Non-Binary,45,New York,NY,Northeast,Small Business,2024-05-19
+566,William Clark,Male,38,San Francisco,CA,West,Individual,2024-02-07
+567,Susan Robinson,Male,67,Chicago,IL,Midwest,Individual,2023-02-17
+568,Donna Davis,Female,51,Portland,OR,West,Individual,2024-05-25
+569,James King,Non-Binary,25,Denver,CO,West,Small Business,2024-05-09
+570,Steven Lopez,Non-Binary,59,Miami,FL,Southeast,Individual,2024-11-04
+571,Joshua Hill,Female,54,Austin,TX,Southwest,Corporate Fleet,2023-09-12
+572,Sarah Sanchez,Female,40,Houston,TX,Southwest,Individual,2024-09-08
+573,Steven Martin,Non-Binary,57,Milwaukee,WI,Midwest,Individual,2023-07-25
+574,Susan Flores,Non-Binary,40,Detroit,MI,Midwest,Corporate Fleet,2024-10-27
+575,Barbara Allen,Non-Binary,66,Chicago,IL,Midwest,Individual,2024-07-29
+576,Donald Nguyen,Non-Binary,64,San Antonio,TX,Southwest,Individual,2024-03-08
+577,James King,Male,23,Houston,TX,Southwest,Individual,2023-02-27
+578,Richard Moore,Male,40,Detroit,MI,Midwest,Small Business,2023-10-30
+579,Susan Wright,Male,44,Dallas,TX,Southwest,Individual,2024-07-29
+580,Joseph Scott,Female,37,Seattle,WA,West,Individual,2023-02-18
+581,Matthew Harris,Female,72,Milwaukee,WI,Midwest,Individual,2023-09-15
+582,Richard Flores,Female,36,Milwaukee,WI,Midwest,Individual,2024-09-09
+583,Richard Gonzalez,Female,50,Atlanta,GA,Southeast,Individual,2023-06-27
+584,Steven Davis,Female,24,Phoenix,AZ,Southwest,Individual,2023-05-14
+585,David Nguyen,Female,22,Columbus,OH,Midwest,Individual,2023-06-08
+586,John Martinez,Female,60,Hartford,CT,Northeast,Small Business,2023-11-05
+587,Ashley Torres,Non-Binary,44,Philadelphia,PA,Northeast,Individual,2023-07-08
+588,Kimberly Jones,Non-Binary,32,San Antonio,TX,Southwest,Individual,2023-04-05
+589,Daniel Anderson,Male,64,Indianapolis,IN,Midwest,Individual,2023-08-12
+590,Michelle King,Female,57,New York,NY,Northeast,Individual,2024-04-01
+591,Jessica Flores,Non-Binary,37,Philadelphia,PA,Northeast,Individual,2023-04-27
+592,Matthew Taylor,Non-Binary,68,Chicago,IL,Midwest,Small Business,2024-01-19
+593,Steven Allen,Female,53,Philadelphia,PA,Northeast,Small Business,2023-07-17
+594,Christopher Allen,Male,28,Orlando,FL,Southeast,Individual,2024-10-03
+595,Robert Wilson,Non-Binary,62,Nashville,TN,Southeast,Small Business,2023-07-30
+596,Paul Ramirez,Non-Binary,26,Atlanta,GA,Southeast,Individual,2023-12-06
+597,John Garcia,Male,25,Charlotte,NC,Southeast,Individual,2024-08-11
+598,Joseph Taylor,Female,46,Austin,TX,Southwest,Individual,2023-01-18
+599,Matthew Davis,Non-Binary,22,Los Angeles,CA,West,Individual,2024-08-22
+600,John Jones,Female,54,Philadelphia,PA,Northeast,Individual,2023-11-05
+601,Joshua Garcia,Female,70,Austin,TX,Southwest,Individual,2024-11-07
+602,Mary Walker,Male,56,Miami,FL,Southeast,Individual,2024-07-12
+603,Charles Martinez,Female,65,Chicago,IL,Midwest,Individual,2024-07-22
+604,Elizabeth Davis,Male,22,Portland,OR,West,Individual,2024-07-14
+605,Jennifer Martin,Male,69,Detroit,MI,Midwest,Individual,2024-10-23
+606,Steven Martinez,Male,33,Orlando,FL,Southeast,Small Business,2023-07-18
+607,Linda Lopez,Non-Binary,73,Los Angeles,CA,West,Small Business,2024-07-16
+608,Sandra Scott,Male,40,Philadelphia,PA,Northeast,Individual,2024-08-17
+609,Ashley Perez,Female,30,Atlanta,GA,Southeast,Individual,2023-03-13
+610,Richard Lee,Female,50,Milwaukee,WI,Midwest,Individual,2024-08-21
+611,Elizabeth Torres,Non-Binary,45,Columbus,OH,Midwest,Individual,2023-11-17
+612,Jessica Anderson,Non-Binary,69,Phoenix,AZ,Southwest,Small Business,2023-05-18
+613,Nancy Walker,Female,50,Indianapolis,IN,Midwest,Individual,2023-04-22
+614,Barbara Hill,Male,39,Orlando,FL,Southeast,Individual,2024-10-03
+615,Robert Jones,Male,54,Hartford,CT,Northeast,Individual,2024-08-27
+616,Susan Williams,Non-Binary,38,Portland,OR,West,Individual,2023-06-02
+617,Lisa Sanchez,Male,71,Seattle,WA,West,Individual,2024-05-28
+618,Steven Garcia,Female,45,Los Angeles,CA,West,Individual,2024-09-20
+619,David Allen,Male,50,Miami,FL,Southeast,Individual,2024-08-02
+620,Elizabeth Walker,Female,24,Nashville,TN,Southeast,Individual,2023-09-28
+621,Lisa Anderson,Male,64,Orlando,FL,Southeast,Small Business,2024-01-05
+622,Matthew Walker,Female,24,Philadelphia,PA,Northeast,Individual,2024-06-17
+623,Sarah Taylor,Non-Binary,56,San Francisco,CA,West,Individual,2024-01-23
+624,Lisa Nguyen,Non-Binary,26,Seattle,WA,West,Individual,2023-08-17
+625,Kimberly Sanchez,Female,44,Austin,TX,Southwest,Small Business,2023-01-07
+626,Steven Rodriguez,Female,32,Atlanta,GA,Southeast,Individual,2023-10-15
+627,Susan Martinez,Male,32,Milwaukee,WI,Midwest,Individual,2023-05-02
+628,Joseph Clark,Female,68,Newark,NJ,Northeast,Individual,2024-05-05
+629,Susan Nguyen,Male,63,Dallas,TX,Southwest,Individual,2023-05-11
+630,Andrew Nguyen,Male,30,Los Angeles,CA,West,Small Business,2023-05-31
+631,Patricia Hernandez,Female,33,Denver,CO,West,Individual,2024-07-31
+632,Mary Jackson,Male,35,San Antonio,TX,Southwest,Corporate Fleet,2024-05-08
+633,David Anderson,Female,60,Orlando,FL,Southeast,Small Business,2023-07-06
+634,Michelle Allen,Female,32,Columbus,OH,Midwest,Individual,2023-03-12
+635,Joseph Harris,Female,30,New York,NY,Northeast,Individual,2024-05-31
+636,Anthony Martinez,Non-Binary,28,Nashville,TN,Southeast,Small Business,2024-09-06
+637,John Wright,Non-Binary,70,New York,NY,Northeast,Individual,2023-05-14
+638,Joshua Wright,Male,71,San Antonio,TX,Southwest,Individual,2023-02-14
+639,Kimberly Ramirez,Male,73,Austin,TX,Southwest,Individual,2024-08-12
+640,Michael Ramirez,Male,38,Houston,TX,Southwest,Small Business,2023-03-27
+641,Charles Hill,Non-Binary,48,Detroit,MI,Midwest,Individual,2023-01-08
+642,Andrew King,Male,55,Newark,NJ,Northeast,Individual,2023-11-20
+643,Anthony White,Male,31,San Antonio,TX,Southwest,Individual,2024-07-02
+644,Margaret Torres,Female,61,Columbus,OH,Midwest,Individual,2024-02-28
+645,Emily Scott,Female,33,Milwaukee,WI,Midwest,Individual,2023-09-17
+646,Karen Torres,Female,71,Houston,TX,Southwest,Small Business,2024-11-06
+647,Linda Anderson,Female,72,Atlanta,GA,Southeast,Individual,2024-02-15
+648,Nancy Scott,Non-Binary,66,Boston,MA,Northeast,Individual,2024-10-13
+649,James Garcia,Male,52,Denver,CO,West,Individual,2023-09-27
+650,Joseph White,Male,60,Newark,NJ,Northeast,Small Business,2024-02-15
+651,Michelle King,Female,67,Los Angeles,CA,West,Small Business,2023-06-29
+652,Ashley Lewis,Male,34,Seattle,WA,West,Individual,2024-09-05
+653,Steven King,Non-Binary,36,San Francisco,CA,West,Individual,2024-01-04
+654,Jessica Smith,Male,27,Columbus,OH,Midwest,Individual,2024-02-09
+655,Betty Nguyen,Male,55,New York,NY,Northeast,Small Business,2024-07-16
+656,Charles Scott,Non-Binary,44,Indianapolis,IN,Midwest,Individual,2023-07-19
+657,Sandra Sanchez,Non-Binary,22,Detroit,MI,Midwest,Individual,2023-04-20
+658,Emily Jones,Non-Binary,40,Chicago,IL,Midwest,Individual,2023-09-21
+659,Paul Torres,Female,66,Austin,TX,Southwest,Individual,2023-09-07
+660,Nancy Robinson,Non-Binary,51,Los Angeles,CA,West,Individual,2023-09-22
+661,Robert Harris,Non-Binary,72,Miami,FL,Southeast,Individual,2024-02-27
+662,Daniel King,Non-Binary,22,Detroit,MI,Midwest,Individual,2024-02-13
+663,Nancy Jones,Non-Binary,33,Phoenix,AZ,Southwest,Individual,2024-08-10
+664,Sarah Lopez,Non-Binary,65,Nashville,TN,Southeast,Individual,2023-08-29
+665,Jessica Taylor,Male,36,Miami,FL,Southeast,Small Business,2023-12-31
+666,Elizabeth Miller,Male,27,San Antonio,TX,Southwest,Individual,2024-07-08
+667,John Walker,Female,61,Columbus,OH,Midwest,Small Business,2024-08-11
+668,Sarah Young,Male,70,Seattle,WA,West,Individual,2024-08-13
+669,William Brown,Non-Binary,73,Austin,TX,Southwest,Small Business,2023-02-03
+670,Steven Thompson,Female,65,Nashville,TN,Southeast,Corporate Fleet,2024-06-14
+671,Sandra Lee,Non-Binary,22,Boston,MA,Northeast,Individual,2023-04-14
+672,Christopher White,Non-Binary,38,Orlando,FL,Southeast,Individual,2023-10-03
+673,Donald Flores,Female,45,Nashville,TN,Southeast,Individual,2024-03-05
+674,Lisa White,Female,39,Houston,TX,Southwest,Individual,2024-08-12
+675,Joseph Miller,Non-Binary,39,Orlando,FL,Southeast,Individual,2024-01-26
+676,Richard Martinez,Non-Binary,31,Dallas,TX,Southwest,Individual,2024-05-26
+677,William King,Non-Binary,68,Columbus,OH,Midwest,Individual,2024-07-29
+678,Andrew Brown,Female,28,Atlanta,GA,Southeast,Individual,2023-09-18
+679,Donald Miller,Female,69,Indianapolis,IN,Midwest,Individual,2024-07-27
+680,Emily Taylor,Female,23,Dallas,TX,Southwest,Individual,2024-09-12
+681,Richard Torres,Non-Binary,63,San Francisco,CA,West,Corporate Fleet,2023-10-19
+682,Daniel Lee,Non-Binary,54,Austin,TX,Southwest,Small Business,2024-01-26
+683,Michelle Jackson,Female,62,Miami,FL,Southeast,Individual,2023-12-12
+684,Anthony Flores,Non-Binary,47,New York,NY,Northeast,Individual,2023-08-22
+685,Christopher Lee,Non-Binary,40,Milwaukee,WI,Midwest,Individual,2023-10-05
+686,Mark White,Non-Binary,59,Denver,CO,West,Individual,2023-07-08
+687,Mary Rodriguez,Non-Binary,37,Chicago,IL,Midwest,Individual,2024-02-11
+688,Michael Miller,Male,52,Los Angeles,CA,West,Individual,2024-02-11
+689,Kimberly Garcia,Male,38,San Francisco,CA,West,Individual,2024-02-04
+690,Karen Anderson,Male,69,Columbus,OH,Midwest,Individual,2023-05-15
+691,Kimberly Hernandez,Male,24,Indianapolis,IN,Midwest,Small Business,2024-04-23
+692,Paul Moore,Non-Binary,50,Orlando,FL,Southeast,Individual,2024-09-03
+693,Sandra Torres,Female,55,Seattle,WA,West,Small Business,2024-05-08
+694,Paul Anderson,Male,50,Indianapolis,IN,Midwest,Individual,2023-06-09
+695,Karen Smith,Male,55,Charlotte,NC,Southeast,Individual,2024-07-01
+696,James Young,Female,41,Newark,NJ,Northeast,Individual,2024-09-03
+697,Joseph Smith,Non-Binary,45,Nashville,TN,Southeast,Small Business,2024-03-23
+698,Betty Thomas,Male,67,Austin,TX,Southwest,Individual,2023-03-23
+699,Margaret Thomas,Non-Binary,70,Seattle,WA,West,Individual,2024-06-28
+700,Sarah Clark,Male,26,Miami,FL,Southeast,Individual,2024-10-14
+701,Sandra Flores,Female,39,Denver,CO,West,Individual,2023-01-20
+702,Elizabeth Brown,Non-Binary,23,Atlanta,GA,Southeast,Individual,2023-05-09
+703,Mark Smith,Male,27,Atlanta,GA,Southeast,Individual,2023-12-17
+704,Anthony Martin,Female,45,Dallas,TX,Southwest,Individual,2023-05-30
+705,Patricia Moore,Female,26,Denver,CO,West,Individual,2023-09-14
+706,Matthew Smith,Male,71,Nashville,TN,Southeast,Individual,2024-03-29
+707,Jessica Williams,Male,51,Hartford,CT,Northeast,Individual,2023-08-02
+708,Donald Harris,Non-Binary,41,Detroit,MI,Midwest,Individual,2023-02-13
+709,Emily King,Male,38,Phoenix,AZ,Southwest,Individual,2023-02-23
+710,Susan Davis,Male,62,Phoenix,AZ,Southwest,Individual,2023-10-10
+711,Donna Davis,Female,72,Atlanta,GA,Southeast,Corporate Fleet,2024-08-18
+712,Donald Hill,Male,45,Boston,MA,Northeast,Individual,2023-04-04
+713,Michelle Perez,Non-Binary,25,Philadelphia,PA,Northeast,Individual,2024-07-03
+714,Michael Rodriguez,Female,36,Milwaukee,WI,Midwest,Individual,2023-12-22
+715,Mark Gonzalez,Male,66,Phoenix,AZ,Southwest,Individual,2023-09-14
+716,John Young,Non-Binary,50,Seattle,WA,West,Individual,2024-05-16
+717,Richard Torres,Male,56,Indianapolis,IN,Midwest,Individual,2023-10-09
+718,Joshua Scott,Male,26,San Francisco,CA,West,Individual,2023-09-27
+719,Paul White,Female,22,Denver,CO,West,Individual,2023-01-20
+720,Michelle White,Non-Binary,37,Chicago,IL,Midwest,Individual,2024-07-05
+721,Matthew Gonzalez,Non-Binary,65,San Antonio,TX,Southwest,Individual,2023-10-17
+722,Christopher Clark,Non-Binary,42,New York,NY,Northeast,Individual,2023-03-10
+723,John Rodriguez,Male,24,Atlanta,GA,Southeast,Individual,2023-04-12
+724,John Torres,Non-Binary,46,San Antonio,TX,Southwest,Individual,2024-08-27
+725,Thomas Brown,Female,36,Los Angeles,CA,West,Individual,2023-08-02
+726,Ashley Garcia,Female,73,Philadelphia,PA,Northeast,Individual,2024-03-01
+727,Lisa Brown,Non-Binary,39,Los Angeles,CA,West,Individual,2023-11-08
+728,Robert Wilson,Non-Binary,28,Boston,MA,Northeast,Individual,2023-07-14
+729,Richard King,Non-Binary,37,San Francisco,CA,West,Individual,2024-07-25
+730,Anthony Miller,Non-Binary,58,Columbus,OH,Midwest,Individual,2024-03-13
+731,Michael Hernandez,Male,57,San Antonio,TX,Southwest,Individual,2023-06-11
+732,Paul Hill,Female,44,Milwaukee,WI,Midwest,Corporate Fleet,2023-11-29
+733,Lisa Clark,Non-Binary,49,Milwaukee,WI,Midwest,Individual,2024-07-12
+734,Susan Harris,Non-Binary,69,Indianapolis,IN,Midwest,Corporate Fleet,2024-04-03
+735,Betty Smith,Non-Binary,24,Milwaukee,WI,Midwest,Individual,2023-05-19
+736,Karen Smith,Female,36,Charlotte,NC,Southeast,Individual,2023-10-10
+737,Emily Allen,Non-Binary,58,San Francisco,CA,West,Individual,2024-04-16
+738,Daniel Martinez,Male,38,Milwaukee,WI,Midwest,Individual,2023-09-20
+739,Karen Garcia,Non-Binary,47,San Francisco,CA,West,Individual,2023-11-29
+740,Donald Lopez,Female,66,Los Angeles,CA,West,Individual,2023-11-04
+741,John Torres,Female,27,Philadelphia,PA,Northeast,Individual,2024-03-20
+742,Anthony Davis,Male,69,Los Angeles,CA,West,Individual,2024-10-09
+743,Matthew Brown,Female,55,Philadelphia,PA,Northeast,Individual,2023-06-03
+744,Christopher Allen,Non-Binary,36,Atlanta,GA,Southeast,Individual,2024-02-07
+745,Mark Hill,Non-Binary,54,Boston,MA,Northeast,Individual,2024-02-08
+746,Elizabeth Rodriguez,Female,27,San Antonio,TX,Southwest,Individual,2024-07-15
+747,Betty Taylor,Male,47,Denver,CO,West,Individual,2023-05-14
+748,William Walker,Non-Binary,34,Austin,TX,Southwest,Individual,2023-07-20
+749,Emily Flores,Non-Binary,55,Miami,FL,Southeast,Individual,2024-03-16
+750,Christopher Torres,Male,29,Austin,TX,Southwest,Individual,2023-07-15
+751,Christopher Thompson,Non-Binary,63,Philadelphia,PA,Northeast,Individual,2023-12-25
+752,Michelle Lewis,Non-Binary,31,Dallas,TX,Southwest,Small Business,2023-08-28
+753,Richard White,Male,70,New York,NY,Northeast,Individual,2023-09-06
+754,Michelle Martinez,Female,22,Chicago,IL,Midwest,Individual,2024-04-27
+755,Mary Perez,Male,69,San Francisco,CA,West,Individual,2024-06-19
+756,Thomas Scott,Female,61,Atlanta,GA,Southeast,Individual,2024-11-10
+757,Kimberly Williams,Female,32,Philadelphia,PA,Northeast,Individual,2024-09-24
+758,Sarah Brown,Female,63,New York,NY,Northeast,Individual,2023-10-05
+759,Lisa Miller,Male,40,Houston,TX,Southwest,Corporate Fleet,2024-06-04
+760,Michael Lee,Female,60,Los Angeles,CA,West,Individual,2024-05-27
+761,Sandra Scott,Non-Binary,23,Boston,MA,Northeast,Small Business,2023-11-09
+762,Nancy Young,Female,69,Atlanta,GA,Southeast,Individual,2023-12-27
+763,Daniel Martin,Male,54,Chicago,IL,Midwest,Individual,2024-02-01
+764,Mary Scott,Female,36,Charlotte,NC,Southeast,Small Business,2024-11-03
+765,William Garcia,Non-Binary,46,Portland,OR,West,Small Business,2023-08-21
+766,Anthony Thomas,Non-Binary,31,Phoenix,AZ,Southwest,Small Business,2023-12-04
+767,Mark Wright,Male,35,Orlando,FL,Southeast,Individual,2023-07-27
+768,William Martin,Non-Binary,67,San Francisco,CA,West,Individual,2023-05-29
+769,Andrew Hernandez,Female,26,Portland,OR,West,Small Business,2023-05-02
+770,Barbara Lee,Male,68,Philadelphia,PA,Northeast,Small Business,2024-02-28
+771,Anthony Martin,Female,69,Detroit,MI,Midwest,Individual,2023-04-20
+772,William Lopez,Male,70,Portland,OR,West,Individual,2024-08-03
+773,Michelle Anderson,Non-Binary,36,Atlanta,GA,Southeast,Individual,2024-05-03
+774,William Allen,Non-Binary,52,Detroit,MI,Midwest,Small Business,2024-05-18
+775,Donald Rodriguez,Male,34,Atlanta,GA,Southeast,Individual,2023-01-16
+776,Sarah Clark,Male,69,Miami,FL,Southeast,Individual,2024-03-25
+777,Michelle Young,Non-Binary,42,Houston,TX,Southwest,Individual,2023-02-12
+778,Joshua Harris,Non-Binary,42,San Antonio,TX,Southwest,Small Business,2024-08-08
+779,Joshua Wright,Non-Binary,63,Hartford,CT,Northeast,Individual,2024-04-12
+780,John Thomas,Non-Binary,56,Dallas,TX,Southwest,Individual,2024-06-12
+781,Patricia Gonzalez,Female,50,Phoenix,AZ,Southwest,Individual,2023-10-20
+782,Sandra Hernandez,Female,40,Los Angeles,CA,West,Individual,2023-05-26
+783,Sandra Lewis,Male,68,Los Angeles,CA,West,Individual,2024-08-22
+784,Paul Rodriguez,Female,48,Columbus,OH,Midwest,Individual,2024-04-09
+785,Donna Gonzalez,Female,27,Indianapolis,IN,Midwest,Individual,2023-06-17
+786,Linda Garcia,Male,67,Phoenix,AZ,Southwest,Individual,2024-01-29
+787,Steven Flores,Male,46,Denver,CO,West,Individual,2023-06-24
+788,Nancy Torres,Non-Binary,31,Miami,FL,Southeast,Individual,2023-02-22
+789,Anthony Martin,Female,68,Phoenix,AZ,Southwest,Individual,2023-05-01
+790,William Gonzalez,Male,61,Chicago,IL,Midwest,Individual,2024-05-25
+791,Paul Smith,Non-Binary,53,Miami,FL,Southeast,Individual,2024-05-02
+792,Sandra Clark,Female,27,Portland,OR,West,Individual,2024-07-14
+793,Sarah Flores,Non-Binary,57,Atlanta,GA,Southeast,Individual,2023-02-26
+794,Daniel Williams,Male,24,Portland,OR,West,Individual,2023-03-31
+795,Patricia Miller,Female,33,Charlotte,NC,Southeast,Individual,2024-09-01
+796,Andrew Scott,Male,51,Seattle,WA,West,Small Business,2023-04-06
+797,Karen Lee,Female,46,Newark,NJ,Northeast,Small Business,2023-03-08
+798,Charles Walker,Male,29,Indianapolis,IN,Midwest,Individual,2024-06-21
+799,Susan Wilson,Non-Binary,25,Hartford,CT,Northeast,Individual,2024-10-06
+800,Kimberly Garcia,Female,68,Seattle,WA,West,Individual,2023-11-21
+801,Thomas King,Non-Binary,61,Detroit,MI,Midwest,Individual,2024-05-23
+802,Kimberly Young,Female,73,Orlando,FL,Southeast,Individual,2023-10-25
+803,Richard Smith,Male,23,Dallas,TX,Southwest,Individual,2023-08-01
+804,Michelle Clark,Female,24,Indianapolis,IN,Midwest,Individual,2024-10-14
+805,Susan Smith,Non-Binary,34,Indianapolis,IN,Midwest,Individual,2023-11-12
+806,Karen Allen,Non-Binary,42,New York,NY,Northeast,Individual,2023-12-16
+807,Betty Torres,Non-Binary,23,Miami,FL,Southeast,Individual,2023-12-13
+808,Donald Walker,Male,63,Nashville,TN,Southeast,Individual,2024-04-16
+809,Paul Perez,Female,72,Dallas,TX,Southwest,Small Business,2023-11-03
+810,Andrew Lee,Non-Binary,56,Boston,MA,Northeast,Individual,2023-12-06
+811,Daniel Jones,Male,39,Philadelphia,PA,Northeast,Corporate Fleet,2024-10-03
+812,Paul Hernandez,Non-Binary,60,Houston,TX,Southwest,Individual,2023-11-12
+813,Christopher Williams,Female,48,Newark,NJ,Northeast,Small Business,2024-01-16
+814,Mark Martin,Male,55,Detroit,MI,Midwest,Individual,2023-02-08
+815,Richard Garcia,Female,54,Newark,NJ,Northeast,Small Business,2023-06-07
+816,Richard Perez,Female,68,Seattle,WA,West,Individual,2023-05-27
+817,Michael King,Non-Binary,30,Atlanta,GA,Southeast,Individual,2024-06-18
+818,Linda Smith,Female,24,Los Angeles,CA,West,Individual,2023-02-17
+819,Michael King,Non-Binary,69,Chicago,IL,Midwest,Individual,2023-11-16
+820,Susan Lee,Male,34,Indianapolis,IN,Midwest,Individual,2024-03-27
+821,Linda Moore,Male,32,Chicago,IL,Midwest,Individual,2024-09-29
+822,Emily Allen,Male,35,Seattle,WA,West,Individual,2023-10-05
+823,Elizabeth Jackson,Non-Binary,37,Atlanta,GA,Southeast,Individual,2023-12-13
+824,Paul Lewis,Male,30,Newark,NJ,Northeast,Small Business,2023-02-21
+825,Michael Harris,Male,27,Austin,TX,Southwest,Individual,2024-09-02
+826,Donna Lewis,Non-Binary,44,Indianapolis,IN,Midwest,Individual,2024-06-30
+827,Jennifer Robinson,Non-Binary,30,Newark,NJ,Northeast,Individual,2023-11-14
+828,Sandra Walker,Male,36,Orlando,FL,Southeast,Individual,2024-01-08
+829,Betty Lopez,Non-Binary,64,Indianapolis,IN,Midwest,Individual,2023-01-31
+830,Robert Walker,Male,44,Austin,TX,Southwest,Small Business,2023-10-17
+831,Daniel Hill,Non-Binary,30,Los Angeles,CA,West,Individual,2023-04-20
+832,Christopher Scott,Non-Binary,26,Milwaukee,WI,Midwest,Individual,2024-08-27
+833,Anthony Thomas,Non-Binary,37,San Francisco,CA,West,Corporate Fleet,2024-01-29
+834,Robert Perez,Male,66,Denver,CO,West,Individual,2024-03-21
+835,Andrew Perez,Non-Binary,66,Miami,FL,Southeast,Individual,2023-03-21
+836,Andrew Young,Male,59,Denver,CO,West,Individual,2023-04-10
+837,Mark Lopez,Female,47,Hartford,CT,Northeast,Individual,2024-09-02
+838,Matthew Lee,Female,63,New York,NY,Northeast,Individual,2023-05-23
+839,Donna Smith,Male,64,Nashville,TN,Southeast,Individual,2024-02-04
+840,Michelle Torres,Female,34,Charlotte,NC,Southeast,Individual,2023-11-08
+841,Margaret Thompson,Male,59,Hartford,CT,Northeast,Corporate Fleet,2024-02-18
+842,William Jackson,Male,45,Los Angeles,CA,West,Individual,2024-07-27
+843,Daniel Davis,Female,23,Nashville,TN,Southeast,Individual,2024-02-08
+844,Christopher Harris,Female,46,San Antonio,TX,Southwest,Individual,2023-06-27
+845,Donald Rodriguez,Male,57,Phoenix,AZ,Southwest,Small Business,2023-06-07
+846,Charles Rodriguez,Male,22,New York,NY,Northeast,Individual,2024-05-13
+847,Margaret Rodriguez,Male,30,Austin,TX,Southwest,Small Business,2024-09-10
+848,Margaret Flores,Male,51,Denver,CO,West,Individual,2024-04-05
+849,Matthew Thompson,Male,33,San Antonio,TX,Southwest,Individual,2024-05-25
+850,Jessica Allen,Female,48,Portland,OR,West,Individual,2023-02-08
+851,Andrew Walker,Non-Binary,45,Hartford,CT,Northeast,Individual,2023-03-23
+852,Elizabeth King,Female,51,Los Angeles,CA,West,Individual,2024-09-16
+853,Jennifer Thomas,Female,62,Hartford,CT,Northeast,Individual,2023-11-16
+854,Michelle Brown,Female,56,Newark,NJ,Northeast,Individual,2024-04-25
+855,Andrew Perez,Female,44,Indianapolis,IN,Midwest,Individual,2024-09-03
+856,Karen Torres,Female,25,San Antonio,TX,Southwest,Individual,2023-02-22
+857,Charles Flores,Male,40,Dallas,TX,Southwest,Individual,2023-03-20
+858,Sarah Taylor,Male,61,Indianapolis,IN,Midwest,Small Business,2023-01-15
+859,Linda Hill,Male,59,Nashville,TN,Southeast,Individual,2023-06-29
+860,Thomas Thomas,Female,33,Los Angeles,CA,West,Individual,2023-03-28
+861,Elizabeth Hill,Male,53,Austin,TX,Southwest,Individual,2024-03-26
+862,David Wilson,Non-Binary,68,Chicago,IL,Midwest,Individual,2023-04-29
+863,Patricia Hernandez,Female,47,Phoenix,AZ,Southwest,Individual,2024-06-29
+864,Joseph Harris,Non-Binary,67,Austin,TX,Southwest,Individual,2024-06-27
+865,Margaret Smith,Female,73,Austin,TX,Southwest,Individual,2024-06-26
+866,John Miller,Non-Binary,62,Columbus,OH,Midwest,Individual,2024-10-29
+867,Sarah Perez,Female,39,Philadelphia,PA,Northeast,Individual,2024-02-05
+868,Sandra Thomas,Non-Binary,65,San Francisco,CA,West,Individual,2023-07-04
+869,Christopher Scott,Male,65,New York,NY,Northeast,Individual,2023-04-11
+870,Kimberly Miller,Non-Binary,50,Detroit,MI,Midwest,Individual,2023-09-15
+871,Richard Williams,Male,61,New York,NY,Northeast,Small Business,2024-11-03
+872,Susan Hill,Non-Binary,29,New York,NY,Northeast,Small Business,2023-05-14
+873,Matthew Torres,Male,29,Charlotte,NC,Southeast,Individual,2024-11-07
+874,Robert Robinson,Female,71,Phoenix,AZ,Southwest,Individual,2023-03-17
+875,Sarah Brown,Female,46,Chicago,IL,Midwest,Individual,2023-09-29
+876,Barbara Lewis,Male,53,Orlando,FL,Southeast,Individual,2024-10-22
+877,Ashley Miller,Male,56,Houston,TX,Southwest,Individual,2023-04-19
+878,Mark Taylor,Male,24,New York,NY,Northeast,Individual,2023-09-14
+879,Mark Johnson,Female,31,New York,NY,Northeast,Individual,2023-09-30
+880,Elizabeth Perez,Female,58,Hartford,CT,Northeast,Individual,2024-05-17
+881,Donald Ramirez,Female,68,Hartford,CT,Northeast,Individual,2024-01-29
+882,Donald Davis,Non-Binary,56,Indianapolis,IN,Midwest,Individual,2024-02-15
+883,Patricia Garcia,Female,56,Chicago,IL,Midwest,Small Business,2023-10-24
+884,Richard Lopez,Non-Binary,24,Houston,TX,Southwest,Individual,2024-02-04
+885,Michael Thompson,Female,27,Houston,TX,Southwest,Individual,2023-07-17
+886,Mary Nguyen,Male,53,Dallas,TX,Southwest,Individual,2024-10-20
+887,Karen Young,Non-Binary,73,Dallas,TX,Southwest,Individual,2023-02-27
+888,Nancy Williams,Female,29,Orlando,FL,Southeast,Individual,2024-07-03
+889,Elizabeth Nguyen,Male,26,Boston,MA,Northeast,Individual,2023-01-20
+890,Donald Flores,Male,37,Atlanta,GA,Southeast,Individual,2023-02-21
+891,Karen Miller,Female,61,Orlando,FL,Southeast,Individual,2023-04-19
+892,Linda Young,Non-Binary,73,San Francisco,CA,West,Individual,2023-07-27
+893,Margaret Perez,Non-Binary,65,Phoenix,AZ,Southwest,Individual,2024-08-12
+894,Paul Rodriguez,Female,72,Atlanta,GA,Southeast,Individual,2023-12-10
+895,Robert Davis,Female,31,Houston,TX,Southwest,Individual,2024-07-20
+896,David Lewis,Male,59,Boston,MA,Northeast,Individual,2024-10-09
+897,Michelle Harris,Male,23,Dallas,TX,Southwest,Individual,2023-07-03
+898,Jennifer Nguyen,Female,48,Houston,TX,Southwest,Individual,2024-10-17
+899,Sarah King,Female,48,Miami,FL,Southeast,Individual,2023-02-08
+900,Joshua Lopez,Non-Binary,53,Los Angeles,CA,West,Individual,2023-11-05
+901,Daniel Clark,Male,57,Miami,FL,Southeast,Individual,2024-06-26
+902,Michael Flores,Female,70,Portland,OR,West,Individual,2024-10-03
+903,Susan Moore,Male,34,Boston,MA,Northeast,Individual,2024-04-30
+904,Ashley Lopez,Male,64,New York,NY,Northeast,Individual,2023-10-19
+905,Susan Ramirez,Female,43,Denver,CO,West,Individual,2023-02-23
+906,Paul Lopez,Male,72,Newark,NJ,Northeast,Individual,2023-03-14
+907,Jessica Lewis,Non-Binary,59,Columbus,OH,Midwest,Individual,2023-11-30
+908,Joseph Davis,Female,36,Boston,MA,Northeast,Individual,2023-07-24
+909,Matthew Anderson,Male,52,Denver,CO,West,Individual,2024-03-22
+910,Elizabeth Wilson,Non-Binary,51,Nashville,TN,Southeast,Individual,2024-04-13
+911,Richard Thompson,Female,34,Detroit,MI,Midwest,Individual,2024-08-05
+912,Patricia Moore,Male,29,Austin,TX,Southwest,Individual,2023-12-18
+913,Joseph Jackson,Non-Binary,32,San Francisco,CA,West,Individual,2024-07-20
+914,Joseph Garcia,Female,55,Houston,TX,Southwest,Individual,2024-04-18
+915,Sarah Smith,Non-Binary,49,Miami,FL,Southeast,Individual,2024-08-16
+916,Joseph Nguyen,Male,58,Newark,NJ,Northeast,Corporate Fleet,2023-02-11
+917,Donald Allen,Male,49,Denver,CO,West,Individual,2023-04-11
+918,Mark Young,Male,27,Los Angeles,CA,West,Individual,2024-02-21
+919,Susan Rodriguez,Female,40,Atlanta,GA,Southeast,Individual,2023-11-09
+920,David Robinson,Non-Binary,69,Los Angeles,CA,West,Corporate Fleet,2024-04-19
+921,William Sanchez,Male,72,Columbus,OH,Midwest,Individual,2023-01-02
+922,Robert Harris,Non-Binary,43,Los Angeles,CA,West,Individual,2023-10-04
+923,Michelle Wright,Non-Binary,72,Atlanta,GA,Southeast,Individual,2023-12-10
+924,Patricia Allen,Non-Binary,45,New York,NY,Northeast,Individual,2024-04-21
+925,Michelle Williams,Female,45,Orlando,FL,Southeast,Individual,2024-07-28
+926,Susan Rodriguez,Female,37,Los Angeles,CA,West,Individual,2024-08-17
+927,Susan Anderson,Female,44,Milwaukee,WI,Midwest,Individual,2023-10-11
+928,Patricia Jones,Female,44,Austin,TX,Southwest,Individual,2023-05-06
+929,Donald Wright,Non-Binary,56,Columbus,OH,Midwest,Individual,2023-03-09
+930,Richard Robinson,Male,27,Houston,TX,Southwest,Individual,2023-03-20
+931,Michael Hernandez,Female,29,Nashville,TN,Southeast,Individual,2023-07-29
+932,Kimberly Johnson,Female,48,San Francisco,CA,West,Individual,2024-03-06
+933,Mark Johnson,Female,34,New York,NY,Northeast,Small Business,2023-08-26
+934,Kimberly Perez,Female,59,Indianapolis,IN,Midwest,Individual,2024-06-26
+935,Emily Lewis,Female,41,San Francisco,CA,West,Small Business,2023-11-10
+936,David Taylor,Male,52,Indianapolis,IN,Midwest,Individual,2023-02-18
+937,Elizabeth Thompson,Female,51,Orlando,FL,Southeast,Small Business,2024-07-02
+938,Charles Lopez,Male,67,Miami,FL,Southeast,Individual,2023-02-12
+939,Christopher Torres,Male,50,Indianapolis,IN,Midwest,Individual,2024-07-29
+940,John Lee,Female,31,Columbus,OH,Midwest,Individual,2023-06-16
+941,Paul Martin,Male,23,Austin,TX,Southwest,Individual,2024-04-14
+942,Christopher Martinez,Male,69,Portland,OR,West,Individual,2023-10-30
+943,Donald Jackson,Non-Binary,64,Orlando,FL,Southeast,Individual,2024-03-28
+944,Nancy Davis,Non-Binary,52,Boston,MA,Northeast,Individual,2023-04-30
+945,Karen Johnson,Female,61,Nashville,TN,Southeast,Individual,2023-12-01
+946,Patricia Hill,Non-Binary,34,Portland,OR,West,Individual,2023-10-12
+947,Richard Johnson,Male,56,Dallas,TX,Southwest,Corporate Fleet,2024-02-08
+948,Richard Young,Female,60,Portland,OR,West,Small Business,2024-01-05
+949,Betty Martinez,Non-Binary,49,Columbus,OH,Midwest,Individual,2023-10-19
+950,Daniel Thompson,Female,50,Los Angeles,CA,West,Individual,2024-03-30
+951,Anthony Lewis,Female,32,Austin,TX,Southwest,Individual,2024-08-24
+952,Joshua Garcia,Male,35,Columbus,OH,Midwest,Corporate Fleet,2024-06-21
+953,Nancy Jones,Non-Binary,70,Dallas,TX,Southwest,Individual,2024-10-16
+954,Sarah Clark,Male,57,San Antonio,TX,Southwest,Individual,2023-05-21
+955,Richard Lopez,Female,40,Denver,CO,West,Individual,2023-11-06
+956,Donna Martin,Female,57,Houston,TX,Southwest,Individual,2023-01-03
+957,Elizabeth Taylor,Female,62,Dallas,TX,Southwest,Individual,2023-10-22
+958,Anthony Lopez,Female,66,Atlanta,GA,Southeast,Individual,2023-10-11
+959,Ashley Jones,Non-Binary,69,Milwaukee,WI,Midwest,Individual,2024-03-22
+960,Thomas Walker,Non-Binary,29,Milwaukee,WI,Midwest,Individual,2023-01-18
+961,Thomas Hernandez,Non-Binary,25,Charlotte,NC,Southeast,Individual,2023-05-19
+962,Daniel Hernandez,Male,39,Columbus,OH,Midwest,Individual,2023-12-31
+963,Patricia Jackson,Female,55,Hartford,CT,Northeast,Individual,2024-10-05
+964,Barbara Miller,Non-Binary,70,Orlando,FL,Southeast,Individual,2023-11-20
+965,Karen Moore,Non-Binary,66,Chicago,IL,Midwest,Individual,2023-12-27
+966,Elizabeth Smith,Male,55,Indianapolis,IN,Midwest,Individual,2024-02-26
+967,Nancy Hernandez,Male,35,Orlando,FL,Southeast,Individual,2023-07-12
+968,Emily Flores,Non-Binary,55,Portland,OR,West,Individual,2023-04-27
+969,Anthony Robinson,Male,29,Atlanta,GA,Southeast,Individual,2023-11-16
+970,Lisa Rodriguez,Female,60,Seattle,WA,West,Individual,2023-11-08
+971,Mary Davis,Male,30,Miami,FL,Southeast,Individual,2023-08-03
+972,William Garcia,Female,66,New York,NY,Northeast,Individual,2024-05-10
+973,Margaret Williams,Male,28,Hartford,CT,Northeast,Individual,2024-04-25
+974,Linda Taylor,Male,26,Chicago,IL,Midwest,Individual,2023-05-07
+975,Joshua Wilson,Non-Binary,34,Charlotte,NC,Southeast,Individual,2023-05-30
+976,Sarah Nguyen,Female,44,Orlando,FL,Southeast,Individual,2024-09-19
+977,Jessica Allen,Non-Binary,26,Hartford,CT,Northeast,Individual,2024-06-25
+978,Susan Gonzalez,Female,32,Los Angeles,CA,West,Corporate Fleet,2023-04-12
+979,Susan Allen,Non-Binary,52,Milwaukee,WI,Midwest,Individual,2023-04-20
+980,Barbara Thompson,Female,49,Orlando,FL,Southeast,Individual,2023-04-26
+981,Christopher Davis,Female,29,San Francisco,CA,West,Individual,2024-01-05
+982,Charles Scott,Non-Binary,24,Philadelphia,PA,Northeast,Individual,2024-01-30
+983,Charles Robinson,Non-Binary,69,Columbus,OH,Midwest,Individual,2024-02-22
+984,Charles Ramirez,Male,26,Phoenix,AZ,Southwest,Individual,2024-05-18
+985,Michael Sanchez,Female,55,New York,NY,Northeast,Individual,2024-02-15
+986,Donna Miller,Non-Binary,32,Philadelphia,PA,Northeast,Corporate Fleet,2023-12-13
+987,Richard Hill,Female,29,Nashville,TN,Southeast,Individual,2023-10-13
+988,Donna Nguyen,Female,70,Phoenix,AZ,Southwest,Individual,2024-09-09
+989,Betty Young,Non-Binary,39,Nashville,TN,Southeast,Individual,2023-09-14
+990,Ashley Young,Male,62,Atlanta,GA,Southeast,Individual,2023-02-24
+991,Robert Young,Non-Binary,23,Nashville,TN,Southeast,Individual,2023-12-01
+992,Elizabeth Martin,Non-Binary,61,New York,NY,Northeast,Individual,2024-06-16
+993,Ashley Robinson,Male,40,Austin,TX,Southwest,Individual,2024-07-09
+994,Nancy Wright,Non-Binary,23,Newark,NJ,Northeast,Small Business,2023-05-02
+995,Matthew Lewis,Female,46,Austin,TX,Southwest,Individual,2023-07-01
+996,Emily Martin,Non-Binary,32,Austin,TX,Southwest,Individual,2024-02-03
+997,Ashley Davis,Non-Binary,65,San Antonio,TX,Southwest,Individual,2024-08-08
+998,Donald Walker,Non-Binary,32,Los Angeles,CA,West,Individual,2024-05-21
+999,Donna Harris,Non-Binary,65,Indianapolis,IN,Midwest,Individual,2023-01-29
+1000,Donna Williams,Male,45,Milwaukee,WI,Midwest,Individual,2024-10-02
+1001,Nancy Harris,Male,49,Indianapolis,IN,Midwest,Individual,2023-02-27
+1002,Jessica Thomas,Male,63,Milwaukee,WI,Midwest,Individual,2023-03-09
+1003,Karen Davis,Female,32,Hartford,CT,Northeast,Individual,2024-04-16
+1004,Margaret Torres,Non-Binary,48,Chicago,IL,Midwest,Individual,2024-08-25
+1005,Mary Lee,Female,58,Phoenix,AZ,Southwest,Individual,2024-05-15
+1006,Michael Wilson,Female,53,Seattle,WA,West,Individual,2023-11-03
+1007,Lisa Ramirez,Male,53,Hartford,CT,Northeast,Individual,2023-09-29
+1008,Patricia Martin,Non-Binary,47,Orlando,FL,Southeast,Individual,2023-04-05
+1009,Donna Miller,Non-Binary,43,Chicago,IL,Midwest,Individual,2024-06-27
+1010,Donald Ramirez,Male,44,Philadelphia,PA,Northeast,Individual,2023-11-04
+1011,Margaret Wright,Female,34,Austin,TX,Southwest,Individual,2024-06-11
+1012,Sandra Scott,Male,23,San Francisco,CA,West,Individual,2023-08-07
+1013,Sandra Moore,Non-Binary,56,Denver,CO,West,Small Business,2024-10-03
+1014,Patricia King,Male,45,Houston,TX,Southwest,Individual,2023-11-04
+1015,Margaret Clark,Female,26,Nashville,TN,Southeast,Individual,2023-10-21
+1016,David Taylor,Non-Binary,60,Nashville,TN,Southeast,Individual,2023-06-03
+1017,Richard Johnson,Male,73,Columbus,OH,Midwest,Individual,2024-03-22
+1018,Margaret Williams,Male,32,Detroit,MI,Midwest,Individual,2023-10-12
+1019,Emily Lopez,Non-Binary,24,Dallas,TX,Southwest,Individual,2023-03-27
+1020,Christopher Hill,Female,26,Phoenix,AZ,Southwest,Individual,2023-04-03
+1021,Betty Rodriguez,Male,29,Portland,OR,West,Small Business,2024-06-18
+1022,Donna King,Female,53,Boston,MA,Northeast,Individual,2023-11-17
+1023,Nancy Nguyen,Non-Binary,46,Nashville,TN,Southeast,Individual,2023-04-20
+1024,Barbara Wilson,Female,50,Phoenix,AZ,Southwest,Small Business,2023-02-27
+1025,Ashley Wright,Female,66,Philadelphia,PA,Northeast,Individual,2024-05-01
+1026,Jessica Moore,Male,45,Phoenix,AZ,Southwest,Small Business,2023-01-22
+1027,Joshua Williams,Non-Binary,64,Boston,MA,Northeast,Individual,2024-01-29
+1028,Karen White,Non-Binary,29,San Francisco,CA,West,Small Business,2024-02-02
+1029,James Sanchez,Female,41,Boston,MA,Northeast,Individual,2023-06-14
+1030,Mark Lee,Non-Binary,48,Philadelphia,PA,Northeast,Small Business,2024-05-18
+1031,Donald Clark,Female,67,Dallas,TX,Southwest,Small Business,2023-09-25
+1032,Steven Jones,Female,48,Portland,OR,West,Individual,2024-04-09
+1033,Mary Brown,Non-Binary,63,Nashville,TN,Southeast,Individual,2023-05-20
+1034,James Sanchez,Male,62,Indianapolis,IN,Midwest,Individual,2023-04-24
+1035,David Thomas,Non-Binary,67,Orlando,FL,Southeast,Individual,2023-11-24
+1036,Mark Walker,Non-Binary,30,Detroit,MI,Midwest,Individual,2023-12-02
+1037,Charles Gonzalez,Male,48,Detroit,MI,Midwest,Individual,2024-01-22
+1038,Andrew Anderson,Male,23,Portland,OR,West,Individual,2023-04-02
+1039,Sandra Gonzalez,Female,66,Atlanta,GA,Southeast,Individual,2024-03-15
+1040,Joshua Taylor,Male,27,Detroit,MI,Midwest,Small Business,2023-05-01
+1041,James King,Female,71,Austin,TX,Southwest,Individual,2023-07-28
+1042,Richard Moore,Female,69,Austin,TX,Southwest,Individual,2023-07-31
+1043,Joshua Wilson,Female,68,Nashville,TN,Southeast,Individual,2023-05-30
+1044,Mary Jackson,Female,37,Denver,CO,West,Small Business,2024-01-14
+1045,Donna Robinson,Male,22,Houston,TX,Southwest,Small Business,2024-02-12
+1046,Susan Harris,Non-Binary,49,Seattle,WA,West,Individual,2024-07-24
+1047,Patricia Brown,Female,37,Phoenix,AZ,Southwest,Corporate Fleet,2024-09-04
+1048,John Smith,Female,54,Denver,CO,West,Individual,2024-02-09
+1049,Lisa Rodriguez,Non-Binary,24,San Francisco,CA,West,Individual,2024-05-30
+1050,Ashley Perez,Female,30,Philadelphia,PA,Northeast,Individual,2024-03-19
+1051,Elizabeth Taylor,Male,42,Boston,MA,Northeast,Individual,2023-10-15
+1052,Lisa Ramirez,Female,38,Seattle,WA,West,Individual,2024-03-22
+1053,David Lee,Non-Binary,53,Orlando,FL,Southeast,Small Business,2024-11-04
+1054,Mark Brown,Male,31,Boston,MA,Northeast,Individual,2024-04-26
+1055,Thomas Hernandez,Non-Binary,51,Dallas,TX,Southwest,Corporate Fleet,2024-05-21
+1056,John Lewis,Female,67,Denver,CO,West,Individual,2023-04-26
+1057,Elizabeth Davis,Female,27,Charlotte,NC,Southeast,Individual,2023-06-22
+1058,Steven Moore,Non-Binary,64,San Francisco,CA,West,Individual,2023-01-05
+1059,Kimberly Torres,Male,48,Boston,MA,Northeast,Individual,2023-04-07
+1060,Nancy Johnson,Female,65,Newark,NJ,Northeast,Individual,2023-04-19
+1061,Christopher Martinez,Male,27,Austin,TX,Southwest,Individual,2023-10-03
+1062,Joshua Smith,Female,24,Denver,CO,West,Individual,2024-08-05
+1063,William Wilson,Male,73,Indianapolis,IN,Midwest,Individual,2023-03-14
+1064,Emily Hill,Female,27,Phoenix,AZ,Southwest,Individual,2024-02-13
+1065,Jennifer Johnson,Male,32,Austin,TX,Southwest,Individual,2024-10-31
+1066,Elizabeth Davis,Female,53,Phoenix,AZ,Southwest,Small Business,2024-09-09
+1067,William Thompson,Non-Binary,28,Milwaukee,WI,Midwest,Individual,2024-04-01
+1068,Matthew Walker,Female,58,Denver,CO,West,Individual,2024-03-08
+1069,Lisa Flores,Male,49,Dallas,TX,Southwest,Individual,2023-12-16
+1070,Sandra Anderson,Non-Binary,65,Nashville,TN,Southeast,Individual,2024-10-24
+1071,Kimberly Garcia,Female,51,Dallas,TX,Southwest,Small Business,2024-05-04
+1072,Karen Martinez,Male,65,Detroit,MI,Midwest,Individual,2023-10-30
+1073,Andrew Brown,Non-Binary,26,Hartford,CT,Northeast,Individual,2024-03-11
+1074,Anthony Miller,Female,64,Seattle,WA,West,Individual,2024-08-22
+1075,Jennifer Allen,Male,29,Houston,TX,Southwest,Individual,2024-02-07
+1076,John Garcia,Female,67,Indianapolis,IN,Midwest,Individual,2024-04-10
+1077,Mark Flores,Female,43,Miami,FL,Southeast,Individual,2024-09-10
+1078,Thomas Miller,Female,56,New York,NY,Northeast,Individual,2023-01-14
+1079,David Walker,Female,66,San Antonio,TX,Southwest,Individual,2023-11-07
+1080,Michelle Flores,Female,66,Phoenix,AZ,Southwest,Individual,2023-05-19
+1081,James Gonzalez,Male,23,Atlanta,GA,Southeast,Individual,2024-10-26
+1082,Elizabeth Thomas,Female,62,San Francisco,CA,West,Individual,2024-04-19
+1083,Elizabeth Walker,Female,23,Boston,MA,Northeast,Small Business,2024-03-31
+1084,Ashley Walker,Male,50,San Francisco,CA,West,Individual,2024-08-06
+1085,Betty Brown,Female,22,Newark,NJ,Northeast,Corporate Fleet,2024-05-22
+1086,Donna Hill,Non-Binary,57,Chicago,IL,Midwest,Individual,2024-05-12
+1087,Steven Nguyen,Non-Binary,61,Houston,TX,Southwest,Individual,2024-06-24
+1088,Mary Ramirez,Non-Binary,42,Los Angeles,CA,West,Individual,2024-10-25
+1089,Anthony Walker,Male,53,Seattle,WA,West,Individual,2024-03-22
+1090,Mary Hernandez,Female,68,Nashville,TN,Southeast,Individual,2023-08-26
+1091,Steven Anderson,Non-Binary,65,Milwaukee,WI,Midwest,Small Business,2024-11-03
+1092,Sandra Rodriguez,Female,68,Austin,TX,Southwest,Small Business,2024-10-30
+1093,Lisa Walker,Male,61,Charlotte,NC,Southeast,Individual,2023-03-30
+1094,Donald Rodriguez,Male,34,Orlando,FL,Southeast,Individual,2024-03-01
+1095,Ashley Martin,Male,35,Los Angeles,CA,West,Corporate Fleet,2024-01-03
+1096,Thomas Thompson,Non-Binary,32,Orlando,FL,Southeast,Individual,2023-03-07
+1097,Nancy Ramirez,Male,61,Atlanta,GA,Southeast,Individual,2024-05-13
+1098,Thomas Perez,Female,71,Hartford,CT,Northeast,Individual,2023-06-04
+1099,Steven Hill,Non-Binary,28,Newark,NJ,Northeast,Individual,2023-04-24
+1100,Michael Flores,Non-Binary,72,Hartford,CT,Northeast,Individual,2023-04-18
+1101,David Davis,Male,45,Charlotte,NC,Southeast,Individual,2024-06-02
+1102,Ashley Miller,Male,63,Indianapolis,IN,Midwest,Individual,2023-05-06
+1103,Richard Lewis,Female,71,Boston,MA,Northeast,Small Business,2024-04-30
+1104,Nancy Jackson,Non-Binary,32,Philadelphia,PA,Northeast,Individual,2024-02-29
+1105,Lisa Thomas,Male,70,Denver,CO,West,Individual,2023-05-22
+1106,Margaret Clark,Female,51,Seattle,WA,West,Small Business,2024-03-29
+1107,Elizabeth Smith,Non-Binary,73,Los Angeles,CA,West,Individual,2023-11-19
+1108,Betty Hernandez,Female,25,Dallas,TX,Southwest,Individual,2024-10-18
+1109,Elizabeth Torres,Male,62,Seattle,WA,West,Individual,2024-07-20
+1110,Karen Lee,Female,22,Milwaukee,WI,Midwest,Individual,2023-05-31
+1111,Betty Lewis,Non-Binary,35,Portland,OR,West,Individual,2024-10-29
+1112,Mark Thompson,Non-Binary,47,Charlotte,NC,Southeast,Individual,2024-07-04
+1113,Nancy Harris,Non-Binary,68,Orlando,FL,Southeast,Corporate Fleet,2023-10-18
+1114,Susan Garcia,Non-Binary,57,Milwaukee,WI,Midwest,Individual,2024-10-12
+1115,David Johnson,Male,72,Portland,OR,West,Individual,2023-11-08
+1116,Margaret Allen,Male,68,Philadelphia,PA,Northeast,Individual,2024-06-03
+1117,Daniel Davis,Male,70,Newark,NJ,Northeast,Individual,2023-01-06
+1118,Sandra Perez,Male,73,Portland,OR,West,Individual,2024-10-04
+1119,Paul Hill,Male,44,Indianapolis,IN,Midwest,Individual,2024-08-09
+1120,William Harris,Non-Binary,69,Atlanta,GA,Southeast,Individual,2024-08-19
+1121,Richard White,Female,28,Nashville,TN,Southeast,Small Business,2023-03-25
+1122,Jennifer Brown,Female,30,Houston,TX,Southwest,Individual,2024-01-14
+1123,Kimberly Sanchez,Non-Binary,57,Denver,CO,West,Small Business,2024-08-21
+1124,Ashley Ramirez,Female,66,Austin,TX,Southwest,Small Business,2023-05-28
+1125,Steven Rodriguez,Female,67,Houston,TX,Southwest,Corporate Fleet,2024-06-09
+1126,Kimberly Davis,Non-Binary,35,Austin,TX,Southwest,Individual,2023-06-10
+1127,Emily White,Male,60,Dallas,TX,Southwest,Individual,2024-08-08
+1128,Charles Williams,Non-Binary,31,Philadelphia,PA,Northeast,Individual,2024-01-19
+1129,Karen Jackson,Female,23,Miami,FL,Southeast,Individual,2024-03-07
+1130,Patricia Martin,Female,35,Nashville,TN,Southeast,Individual,2024-07-14
+1131,Daniel Jones,Male,48,San Antonio,TX,Southwest,Individual,2024-04-08
+1132,Nancy Harris,Female,68,San Francisco,CA,West,Individual,2024-05-31
+1133,Sandra Lewis,Non-Binary,50,Charlotte,NC,Southeast,Individual,2024-10-01
+1134,Michelle Clark,Female,36,Phoenix,AZ,Southwest,Individual,2024-03-29
+1135,Sarah Garcia,Male,67,Hartford,CT,Northeast,Individual,2023-11-13
+1136,Emily Davis,Non-Binary,57,Boston,MA,Northeast,Corporate Fleet,2024-07-08
+1137,Andrew Brown,Non-Binary,55,Nashville,TN,Southeast,Individual,2023-01-20
+1138,Linda Wright,Male,23,Detroit,MI,Midwest,Individual,2024-08-16
+1139,Mark Garcia,Non-Binary,60,Columbus,OH,Midwest,Individual,2024-05-18
+1140,Mary Perez,Female,33,Dallas,TX,Southwest,Small Business,2023-11-21
+1141,Matthew Taylor,Male,29,Hartford,CT,Northeast,Individual,2023-05-28
+1142,Barbara Taylor,Male,31,Columbus,OH,Midwest,Individual,2023-03-02
+1143,Michelle Lee,Male,23,Philadelphia,PA,Northeast,Individual,2023-11-24
+1144,Elizabeth Clark,Female,38,Dallas,TX,Southwest,Individual,2023-09-03
+1145,Joshua Nguyen,Male,53,Portland,OR,West,Individual,2023-04-28
+1146,Sarah Brown,Female,51,Denver,CO,West,Individual,2023-01-30
+1147,Anthony Anderson,Male,39,Portland,OR,West,Individual,2023-09-10
+1148,Emily Rodriguez,Female,58,Austin,TX,Southwest,Individual,2024-10-13
+1149,Steven Wilson,Male,45,San Francisco,CA,West,Individual,2024-07-04
+1150,Margaret Scott,Female,24,Newark,NJ,Northeast,Corporate Fleet,2024-09-27
+1151,Charles Hernandez,Male,25,Phoenix,AZ,Southwest,Individual,2024-01-25
+1152,Daniel Wilson,Non-Binary,54,Chicago,IL,Midwest,Individual,2024-06-30
+1153,Andrew Jones,Female,27,Dallas,TX,Southwest,Small Business,2024-07-23
+1154,Sarah Ramirez,Male,61,Seattle,WA,West,Small Business,2023-12-17
+1155,Thomas Lewis,Female,37,Indianapolis,IN,Midwest,Individual,2024-09-05
+1156,Nancy Johnson,Non-Binary,30,Hartford,CT,Northeast,Individual,2023-01-10
+1157,Barbara Clark,Non-Binary,66,Austin,TX,Southwest,Individual,2024-10-26
+1158,Robert Wright,Male,64,Dallas,TX,Southwest,Individual,2024-01-21
+1159,Joshua Thompson,Female,33,New York,NY,Northeast,Individual,2023-07-17
+1160,Mark Smith,Male,69,Philadelphia,PA,Northeast,Individual,2024-01-02
+1161,Richard Garcia,Non-Binary,62,Detroit,MI,Midwest,Individual,2024-05-20
+1162,Lisa Williams,Female,53,San Francisco,CA,West,Individual,2024-10-15
+1163,Betty Davis,Female,58,Denver,CO,West,Individual,2023-07-18
+1164,Andrew Hill,Non-Binary,33,Hartford,CT,Northeast,Individual,2023-03-08
+1165,William Taylor,Non-Binary,36,Seattle,WA,West,Individual,2023-01-24
+1166,Paul Flores,Female,65,Denver,CO,West,Individual,2024-03-13
+1167,Patricia Lee,Female,48,Chicago,IL,Midwest,Individual,2024-04-22
+1168,Ashley White,Non-Binary,70,Boston,MA,Northeast,Individual,2024-03-06
+1169,Paul Lewis,Female,22,Houston,TX,Southwest,Individual,2024-08-08
+1170,Mary Anderson,Non-Binary,49,Boston,MA,Northeast,Individual,2023-12-04
+1171,Karen Jones,Non-Binary,62,New York,NY,Northeast,Individual,2023-01-25
+1172,Donna Perez,Female,37,Newark,NJ,Northeast,Individual,2023-12-15
+1173,Patricia Perez,Non-Binary,72,Atlanta,GA,Southeast,Individual,2024-09-26
+1174,Mark Miller,Non-Binary,50,Los Angeles,CA,West,Individual,2023-03-04
+1175,John Harris,Female,66,Boston,MA,Northeast,Individual,2024-03-28
+1176,Patricia Martin,Non-Binary,62,Dallas,TX,Southwest,Individual,2023-02-27
+1177,Emily Brown,Female,46,Dallas,TX,Southwest,Individual,2024-02-25
+1178,Joseph Hill,Non-Binary,61,Newark,NJ,Northeast,Individual,2024-03-14
+1179,Michelle Flores,Male,43,Newark,NJ,Northeast,Individual,2024-08-24
+1180,Richard Miller,Male,22,Los Angeles,CA,West,Individual,2023-07-18
+1181,Andrew Rodriguez,Non-Binary,54,Indianapolis,IN,Midwest,Individual,2024-09-27
+1182,Mark Lopez,Male,30,New York,NY,Northeast,Individual,2024-08-21
+1183,Margaret Allen,Non-Binary,70,Indianapolis,IN,Midwest,Individual,2024-07-08
+1184,Elizabeth Martinez,Female,41,Seattle,WA,West,Individual,2023-01-09
+1185,Kimberly Nguyen,Non-Binary,65,Atlanta,GA,Southeast,Individual,2024-07-26
+1186,Patricia Ramirez,Female,34,Miami,FL,Southeast,Individual,2023-12-16
+1187,Richard Walker,Non-Binary,66,San Antonio,TX,Southwest,Individual,2024-08-15
+1188,Andrew Perez,Non-Binary,41,Phoenix,AZ,Southwest,Individual,2024-04-10
+1189,John Young,Male,22,Miami,FL,Southeast,Individual,2023-08-07
+1190,Jessica Walker,Non-Binary,71,Columbus,OH,Midwest,Individual,2023-07-08
+1191,James White,Male,26,Chicago,IL,Midwest,Individual,2023-05-26
+1192,Charles Lewis,Male,62,Seattle,WA,West,Individual,2023-01-31
+1193,Richard Gonzalez,Female,33,Charlotte,NC,Southeast,Individual,2023-12-14
+1194,Emily Thomas,Male,34,Boston,MA,Northeast,Small Business,2023-04-14
+1195,Mary Rodriguez,Female,63,Philadelphia,PA,Northeast,Small Business,2023-11-09
+1196,Sandra Thomas,Female,73,Detroit,MI,Midwest,Small Business,2024-09-30
+1197,Margaret Jones,Male,31,Miami,FL,Southeast,Individual,2024-01-23
+1198,Lisa Lee,Non-Binary,49,Atlanta,GA,Southeast,Individual,2024-08-24
+1199,Richard Wright,Female,72,Charlotte,NC,Southeast,Individual,2024-10-06
+1200,Sarah Rodriguez,Non-Binary,59,Houston,TX,Southwest,Individual,2024-04-26
+1201,Michelle Jones,Male,54,San Antonio,TX,Southwest,Individual,2024-06-15
+1202,Sandra Lopez,Female,67,Milwaukee,WI,Midwest,Individual,2024-05-21
+1203,Donald Moore,Non-Binary,47,Los Angeles,CA,West,Individual,2023-07-27
+1204,Mark Thomas,Female,35,Columbus,OH,Midwest,Small Business,2024-08-08
+1205,David White,Female,57,Boston,MA,Northeast,Individual,2023-10-30
+1206,Mark King,Female,36,Los Angeles,CA,West,Individual,2024-09-28
+1207,Nancy Ramirez,Female,51,Austin,TX,Southwest,Individual,2024-05-24
+1208,Christopher Moore,Female,23,Nashville,TN,Southeast,Individual,2024-10-22
+1209,Robert Thompson,Male,40,Portland,OR,West,Individual,2023-03-22
+1210,Sarah Anderson,Male,29,Philadelphia,PA,Northeast,Individual,2023-07-25
+1211,Nancy Gonzalez,Non-Binary,43,Indianapolis,IN,Midwest,Individual,2023-10-09
+1212,Richard Hill,Male,70,Seattle,WA,West,Individual,2023-11-03
+1213,Charles Thompson,Female,47,Los Angeles,CA,West,Individual,2024-06-08
+1214,Elizabeth Sanchez,Male,36,Nashville,TN,Southeast,Individual,2024-08-24
+1215,Emily Robinson,Non-Binary,51,Chicago,IL,Midwest,Individual,2023-07-12
+1216,Margaret Clark,Male,50,San Antonio,TX,Southwest,Individual,2023-05-23
+1217,Andrew Rodriguez,Female,69,Newark,NJ,Northeast,Individual,2023-12-30
+1218,Nancy Anderson,Female,49,San Antonio,TX,Southwest,Individual,2024-08-24
+1219,Mary Torres,Male,30,Charlotte,NC,Southeast,Individual,2024-09-09
+1220,Joshua Torres,Female,46,Nashville,TN,Southeast,Individual,2024-01-31
+1221,Richard Walker,Male,43,Denver,CO,West,Individual,2023-11-08
+1222,Jennifer Hernandez,Male,65,San Francisco,CA,West,Individual,2024-09-09
+1223,Ashley Johnson,Male,34,Newark,NJ,Northeast,Individual,2023-08-27
+1224,Charles King,Male,51,Philadelphia,PA,Northeast,Individual,2023-06-25
+1225,Christopher Clark,Female,32,Boston,MA,Northeast,Individual,2024-05-04
+1226,Robert Harris,Male,30,Charlotte,NC,Southeast,Individual,2024-11-11
+1227,Donald Hernandez,Non-Binary,58,Milwaukee,WI,Midwest,Individual,2024-04-14
+1228,Sarah Gonzalez,Male,31,Dallas,TX,Southwest,Small Business,2024-09-11
+1229,Jessica King,Female,58,Austin,TX,Southwest,Individual,2023-02-10
+1230,Jennifer Jackson,Non-Binary,51,Indianapolis,IN,Midwest,Individual,2023-06-29
+1231,Anthony Thomas,Male,61,Austin,TX,Southwest,Individual,2024-11-05
+1232,Barbara Torres,Male,47,Boston,MA,Northeast,Small Business,2023-06-11
+1233,Sarah Wright,Female,64,Boston,MA,Northeast,Small Business,2024-02-26
+1234,Emily Davis,Female,26,Hartford,CT,Northeast,Individual,2023-11-30
+1235,Anthony Lewis,Male,38,Orlando,FL,Southeast,Individual,2023-01-28
+1236,Robert Robinson,Female,43,Houston,TX,Southwest,Individual,2023-01-11
+1237,Thomas Davis,Non-Binary,30,Columbus,OH,Midwest,Individual,2023-03-11
+1238,Jennifer Scott,Non-Binary,37,Houston,TX,Southwest,Individual,2023-10-13
+1239,David Hernandez,Male,60,Boston,MA,Northeast,Individual,2024-07-01
+1240,Betty Hernandez,Male,64,Philadelphia,PA,Northeast,Individual,2024-01-02
+1241,Barbara Wilson,Non-Binary,24,San Francisco,CA,West,Individual,2023-02-18
+1242,Kimberly Miller,Female,66,Columbus,OH,Midwest,Individual,2023-01-05
+1243,Patricia Harris,Male,37,Detroit,MI,Midwest,Individual,2023-01-17
+1244,Anthony Johnson,Male,43,Atlanta,GA,Southeast,Individual,2023-04-09
+1245,David Hernandez,Male,48,Los Angeles,CA,West,Individual,2023-11-27
+1246,Emily Gonzalez,Non-Binary,35,Denver,CO,West,Small Business,2023-05-04
+1247,Joseph Wilson,Male,44,Detroit,MI,Midwest,Individual,2024-10-31
+1248,Christopher Smith,Female,35,Houston,TX,Southwest,Individual,2023-10-13
+1249,Michelle White,Male,26,Nashville,TN,Southeast,Individual,2024-09-05
+1250,Ashley Miller,Non-Binary,56,San Francisco,CA,West,Individual,2023-04-08
+1251,Joshua Lee,Non-Binary,66,Houston,TX,Southwest,Individual,2024-10-12
+1252,Christopher Walker,Male,43,Hartford,CT,Northeast,Small Business,2024-04-04
+1253,Matthew Allen,Non-Binary,69,Orlando,FL,Southeast,Individual,2023-01-14
+1254,Joseph Johnson,Non-Binary,70,Philadelphia,PA,Northeast,Individual,2024-03-14
+1255,Jessica Flores,Male,25,Charlotte,NC,Southeast,Individual,2023-07-26
+1256,Elizabeth Harris,Male,63,Boston,MA,Northeast,Small Business,2024-09-04
+1257,Mark Perez,Male,39,Chicago,IL,Midwest,Individual,2024-02-29
+1258,Charles Johnson,Male,68,Indianapolis,IN,Midwest,Individual,2024-07-06
+1259,Patricia Thomas,Non-Binary,66,Orlando,FL,Southeast,Small Business,2024-06-17
+1260,Christopher Lopez,Female,62,New York,NY,Northeast,Small Business,2023-03-13
+1261,Richard Brown,Non-Binary,31,Miami,FL,Southeast,Individual,2024-08-29
+1262,Emily Wilson,Male,54,Newark,NJ,Northeast,Individual,2023-11-15
+1263,David Gonzalez,Male,49,Orlando,FL,Southeast,Individual,2023-10-20
+1264,Andrew Lewis,Non-Binary,34,Columbus,OH,Midwest,Individual,2024-01-04
+1265,Betty Harris,Male,52,Austin,TX,Southwest,Individual,2024-03-19
+1266,Elizabeth Walker,Male,70,Austin,TX,Southwest,Small Business,2023-11-04
+1267,Joshua Wright,Male,57,Charlotte,NC,Southeast,Individual,2023-11-10
+1268,Sandra Jackson,Female,57,Denver,CO,West,Individual,2023-05-20
+1269,Donald Gonzalez,Male,34,New York,NY,Northeast,Small Business,2024-01-19
+1270,Ashley Sanchez,Female,47,Columbus,OH,Midwest,Individual,2024-10-18
+1271,Donna Jones,Female,24,Newark,NJ,Northeast,Small Business,2023-06-16
+1272,Richard Ramirez,Female,71,Milwaukee,WI,Midwest,Individual,2024-10-12
+1273,Lisa Brown,Non-Binary,46,Houston,TX,Southwest,Individual,2023-02-05
+1274,Lisa Johnson,Non-Binary,64,Charlotte,NC,Southeast,Individual,2023-05-31
+1275,Thomas Thomas,Non-Binary,59,Atlanta,GA,Southeast,Individual,2023-04-05
+1276,Matthew Sanchez,Non-Binary,59,Hartford,CT,Northeast,Small Business,2024-03-09
+1277,David Ramirez,Female,66,Milwaukee,WI,Midwest,Corporate Fleet,2024-11-05
+1278,Matthew Nguyen,Female,68,Dallas,TX,Southwest,Individual,2024-08-09
+1279,Daniel Martinez,Female,69,Nashville,TN,Southeast,Individual,2023-01-07
+1280,David Young,Male,28,Newark,NJ,Northeast,Individual,2024-11-01
+1281,Charles Ramirez,Male,33,Detroit,MI,Midwest,Individual,2023-07-22
+1282,Ashley Lopez,Non-Binary,29,San Antonio,TX,Southwest,Individual,2023-07-10
+1283,Richard Brown,Non-Binary,33,Charlotte,NC,Southeast,Corporate Fleet,2024-02-23
+1284,Mark Flores,Male,62,Atlanta,GA,Southeast,Individual,2024-01-22
+1285,Linda Moore,Male,43,Hartford,CT,Northeast,Individual,2024-05-11
+1286,Michael Smith,Male,39,Hartford,CT,Northeast,Individual,2023-02-12
+1287,Michael Wilson,Non-Binary,72,Newark,NJ,Northeast,Individual,2023-09-30
+1288,Ashley Walker,Female,60,Phoenix,AZ,Southwest,Individual,2023-12-18
+1289,Christopher Thomas,Female,64,Austin,TX,Southwest,Individual,2023-12-31
+1290,Nancy Miller,Male,51,Houston,TX,Southwest,Individual,2023-05-06
+1291,Kimberly Moore,Non-Binary,70,Charlotte,NC,Southeast,Individual,2024-11-05
+1292,Donald Allen,Female,64,Atlanta,GA,Southeast,Corporate Fleet,2023-11-26
+1293,Mary White,Male,73,Columbus,OH,Midwest,Individual,2024-05-11
+1294,Betty Flores,Male,44,Austin,TX,Southwest,Corporate Fleet,2023-04-13
+1295,Matthew Jackson,Non-Binary,34,Orlando,FL,Southeast,Small Business,2024-05-31
+1296,John Rodriguez,Female,72,Philadelphia,PA,Northeast,Small Business,2024-07-15
+1297,Sandra Hernandez,Female,29,San Antonio,TX,Southwest,Individual,2023-08-05
+1298,David Garcia,Male,49,Boston,MA,Northeast,Small Business,2023-12-01
+1299,Matthew Moore,Male,68,Columbus,OH,Midwest,Corporate Fleet,2023-05-07
+1300,William Wright,Non-Binary,68,Dallas,TX,Southwest,Individual,2023-12-07
+1301,Joseph Torres,Non-Binary,26,Columbus,OH,Midwest,Small Business,2024-01-26
+1302,Emily Ramirez,Male,36,Chicago,IL,Midwest,Individual,2023-04-25
+1303,Jennifer Perez,Non-Binary,59,Atlanta,GA,Southeast,Individual,2023-05-11
+1304,Christopher Harris,Non-Binary,69,Philadelphia,PA,Northeast,Individual,2024-07-02
+1305,Richard Harris,Female,42,Detroit,MI,Midwest,Individual,2024-09-08
+1306,Donna Anderson,Male,47,Hartford,CT,Northeast,Small Business,2023-11-20
+1307,Elizabeth Jackson,Male,53,Houston,TX,Southwest,Individual,2023-05-30
+1308,John Hill,Female,41,Los Angeles,CA,West,Individual,2024-08-10
+1309,Donald Wilson,Female,40,Dallas,TX,Southwest,Corporate Fleet,2023-12-08
+1310,Elizabeth Wilson,Non-Binary,73,Atlanta,GA,Southeast,Small Business,2023-07-03
+1311,Ashley Sanchez,Female,64,Atlanta,GA,Southeast,Individual,2023-12-12
+1312,Margaret Walker,Female,70,Austin,TX,Southwest,Individual,2023-10-17
+1313,Charles Gonzalez,Non-Binary,57,Dallas,TX,Southwest,Individual,2024-08-17
+1314,Patricia Martin,Female,63,Orlando,FL,Southeast,Individual,2024-05-09
+1315,Charles Martinez,Male,35,Atlanta,GA,Southeast,Individual,2024-08-12
+1316,Michael Martinez,Female,49,Atlanta,GA,Southeast,Individual,2024-04-30
+1317,Barbara Brown,Male,54,Milwaukee,WI,Midwest,Individual,2023-06-02
+1318,Betty Thomas,Male,29,Nashville,TN,Southeast,Individual,2024-09-02
+1319,Barbara Harris,Non-Binary,72,Newark,NJ,Northeast,Small Business,2024-10-27
+1320,Matthew Moore,Non-Binary,63,Phoenix,AZ,Southwest,Individual,2023-04-30
+1321,Jennifer Davis,Female,63,San Francisco,CA,West,Individual,2024-08-09
+1322,Andrew Walker,Female,66,Hartford,CT,Northeast,Individual,2024-05-10
+1323,Margaret Martin,Non-Binary,30,Philadelphia,PA,Northeast,Individual,2024-07-04
+1324,Barbara Sanchez,Non-Binary,23,San Antonio,TX,Southwest,Individual,2024-06-26
+1325,Ashley Jones,Non-Binary,59,Los Angeles,CA,West,Individual,2023-08-01
+1326,Linda Lopez,Non-Binary,66,Atlanta,GA,Southeast,Individual,2023-11-18
+1327,Linda Williams,Male,58,Miami,FL,Southeast,Individual,2023-09-20
+1328,John Garcia,Male,54,Indianapolis,IN,Midwest,Corporate Fleet,2023-06-25
+1329,Margaret Smith,Male,41,Hartford,CT,Northeast,Small Business,2023-10-28
+1330,Paul Lewis,Male,58,Phoenix,AZ,Southwest,Individual,2023-12-27
+1331,Joshua Wright,Non-Binary,35,New York,NY,Northeast,Individual,2023-07-12
+1332,Elizabeth Martin,Male,30,Portland,OR,West,Individual,2024-01-03
+1333,Sarah Rodriguez,Non-Binary,61,Dallas,TX,Southwest,Individual,2023-09-24
+1334,Matthew Hernandez,Female,51,Philadelphia,PA,Northeast,Individual,2023-05-27
+1335,Paul Wilson,Male,62,Detroit,MI,Midwest,Individual,2024-07-31
+1336,Steven Hill,Male,48,Charlotte,NC,Southeast,Corporate Fleet,2024-03-20
+1337,Matthew Johnson,Non-Binary,37,Philadelphia,PA,Northeast,Individual,2023-04-23
+1338,Emily Clark,Male,43,Philadelphia,PA,Northeast,Small Business,2023-10-07
+1339,Elizabeth Anderson,Female,22,Newark,NJ,Northeast,Corporate Fleet,2023-08-16
+1340,Matthew Miller,Male,33,Seattle,WA,West,Individual,2024-05-16
+1341,Michael King,Female,66,Seattle,WA,West,Individual,2024-09-14
+1342,Michael Brown,Male,42,Houston,TX,Southwest,Individual,2024-06-28
+1343,Emily Hill,Female,52,San Francisco,CA,West,Individual,2024-06-09
+1344,Elizabeth Rodriguez,Male,46,Seattle,WA,West,Individual,2024-10-16
+1345,Lisa Thomas,Non-Binary,60,Austin,TX,Southwest,Individual,2023-12-29
+1346,Sandra Allen,Female,39,San Antonio,TX,Southwest,Small Business,2023-08-23
+1347,Karen Garcia,Female,48,Chicago,IL,Midwest,Individual,2023-03-20
+1348,Jessica Garcia,Male,58,New York,NY,Northeast,Individual,2024-07-21
+1349,Ashley Smith,Female,65,San Francisco,CA,West,Individual,2024-06-11
+1350,Paul Davis,Female,22,San Francisco,CA,West,Small Business,2023-01-08
+1351,Margaret Wright,Non-Binary,44,Orlando,FL,Southeast,Individual,2023-02-13
+1352,Joshua Lewis,Male,65,San Francisco,CA,West,Individual,2024-01-11
+1353,William Allen,Female,25,Austin,TX,Southwest,Individual,2024-01-18
+1354,Linda Perez,Non-Binary,37,Los Angeles,CA,West,Individual,2024-05-09
+1355,Charles Taylor,Male,22,Denver,CO,West,Individual,2023-11-09
+1356,Steven Williams,Female,61,Dallas,TX,Southwest,Individual,2024-09-22
+1357,Sandra Perez,Female,44,New York,NY,Northeast,Individual,2023-07-10
+1358,Betty Thompson,Male,28,Austin,TX,Southwest,Individual,2024-06-25
+1359,Steven Martinez,Female,29,Dallas,TX,Southwest,Individual,2024-11-03
+1360,Thomas Anderson,Female,47,Indianapolis,IN,Midwest,Individual,2023-07-06
+1361,Paul Moore,Male,50,Houston,TX,Southwest,Individual,2024-03-20
+1362,James Thompson,Non-Binary,34,Boston,MA,Northeast,Individual,2023-05-17
+1363,Betty Clark,Non-Binary,43,Boston,MA,Northeast,Individual,2024-05-05
+1364,Sarah Davis,Female,53,Denver,CO,West,Individual,2023-05-11
+1365,Christopher Sanchez,Non-Binary,68,Houston,TX,Southwest,Individual,2023-04-21
+1366,Mary Rodriguez,Male,44,Los Angeles,CA,West,Individual,2023-08-31
+1367,Patricia Perez,Female,60,Newark,NJ,Northeast,Individual,2023-10-16
+1368,Ashley Garcia,Female,37,San Francisco,CA,West,Individual,2023-07-11
+1369,Jessica Moore,Male,38,Nashville,TN,Southeast,Individual,2023-04-16
+1370,Steven Flores,Male,34,San Francisco,CA,West,Individual,2023-05-16
+1371,Betty Williams,Female,34,Nashville,TN,Southeast,Individual,2023-07-24
+1372,Jennifer Brown,Female,48,Seattle,WA,West,Individual,2023-08-25
+1373,Joseph Perez,Female,52,Hartford,CT,Northeast,Individual,2023-02-22
+1374,Karen Davis,Female,45,Indianapolis,IN,Midwest,Individual,2023-09-10
+1375,Christopher Brown,Male,24,New York,NY,Northeast,Individual,2023-11-26
+1376,Susan Jackson,Female,39,Los Angeles,CA,West,Individual,2023-09-16
+1377,Ashley White,Female,41,New York,NY,Northeast,Individual,2024-07-19
+1378,William Perez,Female,69,Milwaukee,WI,Midwest,Individual,2024-01-16
+1379,Jessica Moore,Male,59,Dallas,TX,Southwest,Small Business,2023-05-14
+1380,Joshua Davis,Male,59,Miami,FL,Southeast,Individual,2023-04-12
+1381,Robert Wright,Non-Binary,43,Columbus,OH,Midwest,Corporate Fleet,2023-07-26
+1382,Paul Martinez,Male,30,Nashville,TN,Southeast,Individual,2023-09-16
+1383,Emily Thompson,Female,50,Newark,NJ,Northeast,Individual,2024-03-05
+1384,Kimberly Allen,Male,32,Seattle,WA,West,Individual,2023-05-13
+1385,Charles Williams,Non-Binary,25,Nashville,TN,Southeast,Individual,2024-06-29
+1386,Steven Jones,Male,50,Denver,CO,West,Individual,2024-02-04
+1387,Betty Hill,Female,35,Atlanta,GA,Southeast,Individual,2023-08-12
+1388,Donna Smith,Non-Binary,51,Portland,OR,West,Individual,2023-08-14
+1389,Charles Moore,Non-Binary,29,Miami,FL,Southeast,Individual,2023-09-01
+1390,Charles Williams,Non-Binary,31,Detroit,MI,Midwest,Individual,2023-02-22
+1391,Jessica Wilson,Non-Binary,29,Philadelphia,PA,Northeast,Individual,2024-01-13
+1392,Christopher Garcia,Non-Binary,57,Detroit,MI,Midwest,Individual,2024-09-18
+1393,Charles Lee,Male,62,Philadelphia,PA,Northeast,Individual,2023-10-14
+1394,Barbara Taylor,Male,56,Los Angeles,CA,West,Individual,2024-01-27
+1395,Thomas Hill,Non-Binary,35,Houston,TX,Southwest,Individual,2023-07-28
+1396,Donna Sanchez,Male,50,Nashville,TN,Southeast,Individual,2024-05-05
+1397,Jennifer Young,Male,51,Miami,FL,Southeast,Individual,2024-05-17
+1398,Barbara Jackson,Male,41,Miami,FL,Southeast,Individual,2024-09-14
+1399,Richard Jones,Male,26,Houston,TX,Southwest,Individual,2024-10-22
+1400,Betty Miller,Non-Binary,55,Atlanta,GA,Southeast,Individual,2024-01-22
+1401,Matthew Johnson,Male,22,Boston,MA,Northeast,Individual,2023-03-27
+1402,Sarah Martinez,Non-Binary,60,New York,NY,Northeast,Corporate Fleet,2023-04-19
+1403,Paul Perez,Non-Binary,27,Miami,FL,Southeast,Individual,2024-07-30
+1404,Mark Hernandez,Female,43,Houston,TX,Southwest,Individual,2024-07-10
+1405,Sarah Wright,Male,23,New York,NY,Northeast,Individual,2023-04-16
+1406,Steven Clark,Male,22,Atlanta,GA,Southeast,Individual,2024-01-30
+1407,Elizabeth Thompson,Non-Binary,40,Nashville,TN,Southeast,Individual,2023-04-26
+1408,Ashley Hernandez,Male,36,Philadelphia,PA,Northeast,Individual,2024-09-22
+1409,Nancy Davis,Female,27,Hartford,CT,Northeast,Individual,2024-03-14
+1410,Kimberly Perez,Non-Binary,33,Houston,TX,Southwest,Small Business,2023-11-05
+1411,Michelle Jackson,Female,28,Columbus,OH,Midwest,Individual,2023-09-29
+1412,Robert Smith,Male,71,Charlotte,NC,Southeast,Individual,2024-04-02
+1413,Donald Jones,Male,58,Phoenix,AZ,Southwest,Individual,2023-11-27
+1414,William Lopez,Female,44,Columbus,OH,Midwest,Individual,2024-02-28
+1415,Joshua Perez,Male,73,Nashville,TN,Southeast,Individual,2024-05-24
+1416,Paul Wright,Female,56,San Francisco,CA,West,Individual,2024-08-17
+1417,Anthony King,Non-Binary,71,Atlanta,GA,Southeast,Individual,2023-01-03
+1418,Susan Johnson,Female,57,Houston,TX,Southwest,Small Business,2023-03-03
+1419,Daniel White,Male,40,Houston,TX,Southwest,Small Business,2024-07-18
+1420,Anthony Thomas,Male,36,Boston,MA,Northeast,Individual,2023-05-27
+1421,Matthew Johnson,Non-Binary,49,Chicago,IL,Midwest,Individual,2024-11-09
+1422,Donna Jones,Female,60,Atlanta,GA,Southeast,Individual,2023-05-25
+1423,Jennifer Thomas,Male,22,Denver,CO,West,Individual,2023-07-06
+1424,Donald Rodriguez,Non-Binary,55,Columbus,OH,Midwest,Individual,2023-12-12
+1425,Mark Smith,Female,29,Atlanta,GA,Southeast,Small Business,2023-02-02
+1426,Joshua Lopez,Non-Binary,32,Newark,NJ,Northeast,Small Business,2024-04-10
+1427,Emily Taylor,Non-Binary,54,Detroit,MI,Midwest,Individual,2023-06-10
+1428,Sarah Garcia,Non-Binary,46,Miami,FL,Southeast,Individual,2023-02-27
+1429,Joseph Sanchez,Male,69,Portland,OR,West,Small Business,2024-04-24
+1430,Donald Lee,Non-Binary,63,Austin,TX,Southwest,Individual,2024-01-16
+1431,Margaret Gonzalez,Female,28,New York,NY,Northeast,Individual,2023-12-10
+1432,Mary Thomas,Female,32,Los Angeles,CA,West,Individual,2024-09-03
+1433,James Martin,Male,57,Atlanta,GA,Southeast,Individual,2023-03-29
+1434,Andrew Torres,Male,58,Dallas,TX,Southwest,Individual,2023-04-06
+1435,Karen Smith,Female,70,Columbus,OH,Midwest,Individual,2023-11-19
+1436,Betty Thompson,Male,66,Philadelphia,PA,Northeast,Individual,2024-05-30
+1437,Michael Allen,Male,23,Denver,CO,West,Individual,2023-02-08
+1438,Charles Hernandez,Male,65,Dallas,TX,Southwest,Small Business,2023-04-06
+1439,Joseph Wilson,Non-Binary,63,Miami,FL,Southeast,Corporate Fleet,2024-05-28
+1440,Kimberly Hill,Non-Binary,55,Columbus,OH,Midwest,Individual,2023-12-14
+1441,Charles White,Non-Binary,49,Newark,NJ,Northeast,Individual,2024-09-17
+1442,Joshua Jones,Male,58,Dallas,TX,Southwest,Individual,2023-05-27
+1443,Karen Scott,Male,53,Newark,NJ,Northeast,Individual,2023-10-30
+1444,David Jones,Female,58,Indianapolis,IN,Midwest,Individual,2023-07-03
+1445,Sandra Taylor,Female,38,Houston,TX,Southwest,Small Business,2024-08-05
+1446,Ashley Williams,Female,40,Austin,TX,Southwest,Small Business,2023-05-13
+1447,Mark White,Non-Binary,61,Indianapolis,IN,Midwest,Individual,2024-02-28
+1448,Steven Lewis,Female,65,Hartford,CT,Northeast,Corporate Fleet,2023-02-28
+1449,Jessica Scott,Male,31,Philadelphia,PA,Northeast,Individual,2024-08-06
+1450,Betty Jones,Male,46,Dallas,TX,Southwest,Individual,2024-04-24
+1451,Paul Robinson,Male,27,Atlanta,GA,Southeast,Small Business,2024-02-11
+1452,Margaret Gonzalez,Female,43,Philadelphia,PA,Northeast,Individual,2024-09-10
+1453,Ashley Wilson,Non-Binary,69,Dallas,TX,Southwest,Individual,2023-02-09
+1454,Paul Martinez,Female,31,Charlotte,NC,Southeast,Individual,2024-09-07
+1455,Matthew Brown,Female,72,Austin,TX,Southwest,Individual,2023-08-05
+1456,Mary Ramirez,Female,38,Atlanta,GA,Southeast,Individual,2023-10-08
+1457,Betty Garcia,Female,67,Austin,TX,Southwest,Individual,2023-09-23
+1458,Barbara Brown,Male,49,Indianapolis,IN,Midwest,Individual,2023-12-24
+1459,Anthony Walker,Female,56,Nashville,TN,Southeast,Individual,2024-08-07
+1460,Matthew Smith,Non-Binary,72,San Francisco,CA,West,Individual,2024-08-15
+1461,Michelle Martinez,Female,64,Chicago,IL,Midwest,Individual,2024-04-14
+1462,Elizabeth Young,Female,29,Phoenix,AZ,Southwest,Individual,2023-01-04
+1463,Mark Rodriguez,Non-Binary,50,Los Angeles,CA,West,Individual,2023-07-12
+1464,Anthony Wright,Male,60,Houston,TX,Southwest,Individual,2023-07-15
+1465,Andrew Smith,Female,45,Philadelphia,PA,Northeast,Small Business,2024-05-29
+1466,Linda Young,Non-Binary,51,Austin,TX,Southwest,Individual,2024-07-09
+1467,Margaret King,Female,29,Nashville,TN,Southeast,Individual,2023-07-01
+1468,Emily Hill,Male,56,Austin,TX,Southwest,Individual,2024-11-06
+1469,Margaret Jackson,Non-Binary,61,New York,NY,Northeast,Individual,2023-04-17
+1470,Jennifer Johnson,Non-Binary,48,Newark,NJ,Northeast,Individual,2024-09-30
+1471,Paul Miller,Non-Binary,50,Portland,OR,West,Individual,2023-10-24
+1472,Anthony Wilson,Male,71,San Antonio,TX,Southwest,Individual,2023-07-20
+1473,Donald Davis,Female,72,Austin,TX,Southwest,Small Business,2024-10-22
+1474,Betty Smith,Female,72,Orlando,FL,Southeast,Individual,2024-11-05
+1475,Thomas Martin,Female,65,Atlanta,GA,Southeast,Small Business,2024-02-29
+1476,John Smith,Male,31,Milwaukee,WI,Midwest,Small Business,2024-09-06
+1477,Christopher Perez,Male,58,Houston,TX,Southwest,Individual,2024-02-05
+1478,Richard Flores,Non-Binary,47,Hartford,CT,Northeast,Individual,2024-10-13
+1479,Matthew Lopez,Female,42,San Francisco,CA,West,Individual,2023-04-12
+1480,William Allen,Male,62,Denver,CO,West,Small Business,2024-10-04
+1481,Thomas Scott,Male,42,Atlanta,GA,Southeast,Individual,2024-03-23
+1482,James Nguyen,Male,23,Portland,OR,West,Small Business,2023-03-22
+1483,Andrew Harris,Male,69,Nashville,TN,Southeast,Individual,2024-01-02
+1484,Barbara Thomas,Non-Binary,36,Detroit,MI,Midwest,Individual,2023-09-09
+1485,Matthew Taylor,Non-Binary,25,Chicago,IL,Midwest,Small Business,2024-10-04
+1486,Mary Nguyen,Male,29,San Antonio,TX,Southwest,Individual,2023-05-26
+1487,Charles Taylor,Male,27,Newark,NJ,Northeast,Small Business,2023-08-01
+1488,Betty Miller,Female,72,Newark,NJ,Northeast,Individual,2024-10-02
+1489,Robert Wilson,Non-Binary,48,Phoenix,AZ,Southwest,Individual,2024-04-06
+1490,David Lopez,Female,22,Orlando,FL,Southeast,Individual,2023-02-02
+1491,Linda Perez,Female,52,Portland,OR,West,Individual,2023-06-12
+1492,Kimberly Taylor,Male,34,Los Angeles,CA,West,Individual,2024-06-14
+1493,Steven Martinez,Male,45,Boston,MA,Northeast,Individual,2023-05-22
+1494,Joseph Garcia,Non-Binary,66,Charlotte,NC,Southeast,Individual,2023-07-24
+1495,Jennifer Thompson,Non-Binary,57,Columbus,OH,Midwest,Individual,2024-05-22
+1496,Margaret Allen,Female,34,Detroit,MI,Midwest,Individual,2023-10-15
+1497,Betty Miller,Non-Binary,72,Seattle,WA,West,Individual,2023-07-30
+1498,Ashley Ramirez,Female,49,Seattle,WA,West,Individual,2024-09-29
+1499,Michael Hill,Female,49,Orlando,FL,Southeast,Individual,2024-10-09
+1500,Robert Lewis,Male,24,Seattle,WA,West,Individual,2023-10-28
+1501,Joshua King,Female,47,New York,NY,Northeast,Individual,2023-11-27
+1502,Margaret Lopez,Female,37,Boston,MA,Northeast,Individual,2024-01-16
+1503,Elizabeth Lee,Male,22,Chicago,IL,Midwest,Individual,2023-08-07
+1504,Sandra Torres,Female,36,Los Angeles,CA,West,Individual,2024-09-08
+1505,Susan King,Male,28,Seattle,WA,West,Individual,2023-03-18
+1506,Andrew Clark,Non-Binary,70,Phoenix,AZ,Southwest,Individual,2023-07-22
+1507,Richard Brown,Female,53,Philadelphia,PA,Northeast,Individual,2023-05-08
+1508,Mark Hernandez,Non-Binary,42,Denver,CO,West,Individual,2023-01-22
+1509,Charles Johnson,Non-Binary,72,Los Angeles,CA,West,Small Business,2023-10-19
+1510,William Sanchez,Male,56,Los Angeles,CA,West,Individual,2023-01-17
+1511,Robert Walker,Male,73,Phoenix,AZ,Southwest,Individual,2023-12-21
+1512,Betty Garcia,Non-Binary,71,Columbus,OH,Midwest,Individual,2024-02-07
+1513,Karen Robinson,Female,63,Philadelphia,PA,Northeast,Small Business,2023-04-16
+1514,Mary Anderson,Male,22,Atlanta,GA,Southeast,Corporate Fleet,2024-03-22
+1515,Joseph Hernandez,Male,34,Milwaukee,WI,Midwest,Corporate Fleet,2023-02-23
+1516,Thomas Williams,Male,25,Chicago,IL,Midwest,Individual,2024-09-19
+1517,Matthew Moore,Non-Binary,32,Orlando,FL,Southeast,Individual,2023-05-10
+1518,Christopher Martinez,Non-Binary,48,Dallas,TX,Southwest,Individual,2023-09-04
+1519,Andrew Walker,Non-Binary,53,Indianapolis,IN,Midwest,Individual,2024-05-09
+1520,Joseph Garcia,Female,71,Chicago,IL,Midwest,Individual,2023-09-06
+1521,Susan Jones,Male,53,Boston,MA,Northeast,Individual,2023-08-10
+1522,Sandra Harris,Male,53,Philadelphia,PA,Northeast,Individual,2024-08-27
+1523,Kimberly Allen,Female,70,Columbus,OH,Midwest,Individual,2024-05-31
+1524,Michael Rodriguez,Male,45,Austin,TX,Southwest,Small Business,2024-06-09
+1525,Richard Sanchez,Male,26,Columbus,OH,Midwest,Individual,2023-11-11
+1526,Andrew Miller,Male,51,New York,NY,Northeast,Individual,2024-04-16
+1527,Barbara Moore,Male,52,Denver,CO,West,Individual,2023-05-02
+1528,Emily Garcia,Female,49,Miami,FL,Southeast,Individual,2024-03-17
+1529,Steven Perez,Male,50,Indianapolis,IN,Midwest,Individual,2024-10-26
+1530,Matthew Ramirez,Male,40,Nashville,TN,Southeast,Individual,2023-10-10
+1531,Kimberly Hill,Female,55,Dallas,TX,Southwest,Individual,2024-10-23
+1532,Jessica Davis,Male,29,New York,NY,Northeast,Individual,2023-09-02
+1533,Robert Wright,Male,39,Orlando,FL,Southeast,Individual,2024-02-19
+1534,Betty Sanchez,Male,36,Columbus,OH,Midwest,Individual,2023-07-28
+1535,Daniel Jackson,Non-Binary,60,Chicago,IL,Midwest,Individual,2024-05-30
+1536,Michelle Walker,Non-Binary,41,Miami,FL,Southeast,Individual,2023-03-13
+1537,David Lopez,Female,51,Atlanta,GA,Southeast,Individual,2024-03-14
+1538,Nancy Johnson,Male,38,Boston,MA,Northeast,Individual,2023-01-10
+1539,Joshua Thompson,Female,59,Newark,NJ,Northeast,Small Business,2024-04-28
+1540,Linda Williams,Male,58,Detroit,MI,Midwest,Individual,2023-06-21
+1541,Elizabeth Miller,Male,41,Columbus,OH,Midwest,Individual,2023-12-26
+1542,Paul Taylor,Non-Binary,53,Indianapolis,IN,Midwest,Individual,2023-12-28
+1543,Karen Perez,Non-Binary,71,Denver,CO,West,Individual,2024-06-15
+1544,Mary Martinez,Female,36,Charlotte,NC,Southeast,Individual,2023-09-08
+1545,Andrew Ramirez,Female,35,Boston,MA,Northeast,Small Business,2024-01-22
+1546,Michael Moore,Non-Binary,65,Denver,CO,West,Corporate Fleet,2024-06-23
+1547,Barbara Taylor,Non-Binary,44,Columbus,OH,Midwest,Individual,2023-10-10
+1548,Karen Gonzalez,Male,59,Seattle,WA,West,Small Business,2023-05-06
+1549,Margaret Robinson,Non-Binary,72,Indianapolis,IN,Midwest,Individual,2023-01-09
+1550,Ashley Martinez,Female,65,Orlando,FL,Southeast,Corporate Fleet,2024-09-30
+1551,Emily Hernandez,Female,53,Chicago,IL,Midwest,Individual,2023-01-16
+1552,Sandra Williams,Male,40,Los Angeles,CA,West,Individual,2023-11-10
+1553,James Ramirez,Female,64,New York,NY,Northeast,Individual,2023-12-25
+1554,Charles Allen,Non-Binary,71,San Francisco,CA,West,Corporate Fleet,2023-10-05
+1555,Elizabeth Gonzalez,Female,59,Philadelphia,PA,Northeast,Individual,2024-04-29
+1556,Daniel Thomas,Non-Binary,62,Austin,TX,Southwest,Individual,2023-04-11
+1557,Thomas Martin,Non-Binary,41,Orlando,FL,Southeast,Individual,2023-11-27
+1558,Donna Rodriguez,Non-Binary,71,Charlotte,NC,Southeast,Individual,2024-07-21
+1559,Richard Martin,Female,27,Milwaukee,WI,Midwest,Small Business,2024-04-17
+1560,Paul Lopez,Female,72,Dallas,TX,Southwest,Individual,2024-03-28
+1561,Christopher Allen,Non-Binary,67,Columbus,OH,Midwest,Individual,2024-04-22
+1562,Anthony Clark,Female,23,Los Angeles,CA,West,Corporate Fleet,2024-03-07
+1563,Jennifer Rodriguez,Non-Binary,41,Orlando,FL,Southeast,Individual,2023-05-11
+1564,Michelle Wright,Non-Binary,40,Newark,NJ,Northeast,Individual,2023-01-07
+1565,Sandra King,Female,25,New York,NY,Northeast,Individual,2024-10-27
+1566,Michael Perez,Non-Binary,28,Milwaukee,WI,Midwest,Individual,2023-12-06
+1567,Patricia Davis,Non-Binary,59,Los Angeles,CA,West,Individual,2024-06-12
+1568,Elizabeth Scott,Non-Binary,53,Miami,FL,Southeast,Small Business,2024-10-17
+1569,Elizabeth Martin,Non-Binary,41,Newark,NJ,Northeast,Individual,2023-07-25
+1570,Linda Jones,Male,31,Los Angeles,CA,West,Individual,2023-09-11
+1571,Susan Miller,Female,23,Denver,CO,West,Individual,2023-05-05
+1572,Karen Sanchez,Female,33,Orlando,FL,Southeast,Individual,2024-09-19
+1573,Mark Flores,Male,49,Atlanta,GA,Southeast,Individual,2024-11-04
+1574,Jessica Hernandez,Non-Binary,69,San Francisco,CA,West,Individual,2023-10-24
+1575,Charles Miller,Non-Binary,53,Indianapolis,IN,Midwest,Individual,2023-04-20
+1576,Sandra Clark,Female,31,Philadelphia,PA,Northeast,Individual,2024-07-31
+1577,Matthew Smith,Non-Binary,41,Hartford,CT,Northeast,Individual,2023-12-30
+1578,William Robinson,Non-Binary,51,Chicago,IL,Midwest,Corporate Fleet,2024-01-02
+1579,Steven Allen,Male,44,Denver,CO,West,Individual,2023-06-28
+1580,Elizabeth Thompson,Non-Binary,68,Seattle,WA,West,Individual,2023-05-24
+1581,Sarah Martin,Female,26,Austin,TX,Southwest,Corporate Fleet,2024-09-12
+1582,Barbara Torres,Non-Binary,54,Seattle,WA,West,Individual,2023-11-28
+1583,Donna Nguyen,Female,59,Denver,CO,West,Individual,2023-01-31
+1584,David Anderson,Male,64,Newark,NJ,Northeast,Small Business,2024-05-02
+1585,Christopher Anderson,Non-Binary,72,Atlanta,GA,Southeast,Small Business,2023-06-28
+1586,Matthew Clark,Male,25,Seattle,WA,West,Individual,2023-03-16
+1587,Mark White,Non-Binary,62,Boston,MA,Northeast,Individual,2024-04-05
+1588,Matthew Rodriguez,Non-Binary,58,San Francisco,CA,West,Individual,2024-05-17
+1589,Mark Jackson,Male,34,Nashville,TN,Southeast,Individual,2023-07-16
+1590,Jennifer Nguyen,Male,62,Boston,MA,Northeast,Individual,2023-05-24
+1591,James White,Female,58,Los Angeles,CA,West,Individual,2024-10-19
+1592,Kimberly Young,Male,35,Denver,CO,West,Individual,2024-01-01
+1593,Michelle Scott,Male,73,Newark,NJ,Northeast,Individual,2024-01-21
+1594,Robert Torres,Male,30,Seattle,WA,West,Individual,2024-05-25
+1595,Joseph Brown,Non-Binary,56,Chicago,IL,Midwest,Individual,2023-10-24
+1596,Thomas Harris,Non-Binary,44,Boston,MA,Northeast,Corporate Fleet,2023-03-18
+1597,Paul Torres,Male,55,Portland,OR,West,Individual,2024-09-25
+1598,Patricia Wright,Non-Binary,29,Denver,CO,West,Small Business,2023-09-27
+1599,Mary Williams,Female,48,Detroit,MI,Midwest,Individual,2023-03-02
+1600,William Wilson,Non-Binary,68,Chicago,IL,Midwest,Individual,2023-03-16
