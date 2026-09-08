@@ -363,3 +363,26 @@ python scripts/benchmark_optimization.py
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
+---
+
+## 11. Interactive Streamlit Dashboard Deployment
+
+The project includes an executive-grade interactive **Streamlit web application** (`app.py`) featuring dynamic KPI cards, interactive cross-filters, Plotly visualizations, and relational data explorers.
+
+### Launch Streamlit Locally:
+```bash
+python -m streamlit run app.py
+```
+The app will automatically open at `http://localhost:8501`.
+
+### 1-Click Streamlit Community Cloud Deployment:
+1. Push repository to GitHub.
+2. Visit [share.streamlit.io](https://share.streamlit.io/).
+3. Connect repository `New-Wheels-Sales-Analytics-Automotive-Transportation` with main file path `app.py`.
+4. Click **Deploy**. (Zero database configuration needed: the app automatically serves from clean cached transactional data!).
+
+### Containerized Docker Deployment:
+```bash
+docker build -t new-wheels-analytics .
+docker run -p 8501:8501 new-wheels-analytics
+```

@@ -1,16 +1,3 @@
-﻿import os
-import random
-import csv
-from datetime import datetime, timedelta
-
-random.seed(42)
-
-RAW_DIR = os.path.join('data', 'raw')
-PROCESSED_DIR = os.path.join('data', 'processed')
-os.makedirs(RAW_DIR, exist_ok=True)
-os.makedirs(PROCESSED_DIR, exist_ok=True)
-
-print('Initializing synthetic data generator for New Wheels Sales Analytics...')
 import os
 import random
 import csv
@@ -18,10 +5,14 @@ from datetime import datetime, timedelta
 
 random.seed(42)
 
-RAW_DIR = os.path.join('data', 'raw')
-PROCESSED_DIR = os.path.join('data', 'processed')
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT = os.path.abspath(os.path.join(SCRIPT_DIR, '..'))
+RAW_DIR = os.path.join(PROJECT_ROOT, 'data', 'raw')
+PROCESSED_DIR = os.path.join(PROJECT_ROOT, 'data', 'processed')
 os.makedirs(RAW_DIR, exist_ok=True)
 os.makedirs(PROCESSED_DIR, exist_ok=True)
+
+print('Initializing synthetic data generator for New Wheels Sales Analytics...')
 
 # -------------------------------------------------------------
 # 1. DISPATCH CENTERS
