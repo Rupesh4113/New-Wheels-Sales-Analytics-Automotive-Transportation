@@ -92,10 +92,15 @@ def load_data():
     orders_clean["quarter"] = "2024-Q" + orders_clean["order_date"].dt.quarter.astype(str)
     orders_clean["month"] = orders_clean["order_date"].dt.strftime("%Y-%m")
     
-    df = orders_clean.merge(vehicles_df, on="vehicle_id", how="left")
+    vehicles_merge_cols = [c for c in vehicles_df.columns if c != "list_price"]
+    df = orders_clean.merge(vehicles_df[vehicles_merge_cols], on="vehicle_id", how="left")
     df = df.merge(customers_df[["customer_id", "customer_name", "gender", "age", "customer_segment"]], on="customer_id", how="left")
     df = df.merge(shipping_df, on="order_id", how="left", suffixes=("", "_ship"))
-    df = df.merge(dc_df[["dispatch_center_id", "center_name", "region", "city", "capacity"]], on="dispatch_center_id", how="left", suffixes=("", "_dc"))
+    df = df.merge(
+        dc_df[["dispatch_center_id", "center_name", "region", "city", "capacity"]].rename(columns={"region": "region_dc"}),
+        on="dispatch_center_id",
+        how="left"
+    )
     df = df.merge(carriers_df[["carrier_id", "carrier_name", "sla_days"]], on="carrier_id", how="left")
     df = df.merge(feedback_df[["order_id", "rating", "satisfaction_category", "comments"]], on="order_id", how="left")
     
